@@ -1,17 +1,21 @@
-# Chapter 5 - Socio-Economic Conditions
-### [CEQR technical manual chapter 5](https://www1.nyc.gov/assets/oec/technical-manual/05_Socioeconomic_Conditions_2014.pdf)
-The socioeconomic character of an area includes its population, housing, and economic activity. 
+# Chapter 16 - Transportation
+### [CEQR technical manual chapter 16](https://www1.nyc.gov/assets/oec/technical-manual/16_Transportation_2014.pdf)
+A positive effect on one mode of travel may
+negatively impact another, while a negative effect on travel modes may negatively impact several aspects of the transportation
+system. The objective of the transportation analyses is to determine whether a proposed project may have a
+potential significant impact on traffic operations and mobility, public transportation facilities and services, pedestrian
+elements and flow, safety of all roadway users (pedestrians, cyclists, transit users and motorists), on- and off-street
+parking, or goods movement. 
 
 Subjects to be considered in this analysis:
-- **Public engagement**: at what phases? how?
-- Revising **CEQR manual thresholds**: Changing the min-200 housing units and min-500 residents directly displaced
-- Determining **"affordability"**
+- **Mode of transportation**
+- Challenge and determine basic assumptions: patterns seasonality? distance from subway
+- **TRUCKS** > using SONYC data
 - **Comulative effect** of future development 
-- Network analysis of **manufacturing neighborhoods**
-- Migration patterns
+- Comparison of **manufacturing and/or waterfront neighborhoods**
 
 Data:
 - PLUTO and MapPLUTO
-- Census / ACS : age; labor; housing patterns
-- Employment: QCEW 
+- Census / ACS : age; **commuting patterns**
+- SONYC data
 
