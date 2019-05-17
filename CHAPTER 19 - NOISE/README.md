@@ -24,4 +24,4 @@ Data:
 ### Analysis
 For the **SONYC** data analysis of detecting trucks, we will use **Network traffic anomaly detection based on sliding window** technique. Through sliding time window, traffic anomaly detection will be limited to the specified scope of time. This significantly reduces the amount of data analysis to improve the speed of anomaly detection. Using the dataset from real network to simulate, we validate that the proposed algorithm is effective and feasible.
 
-See notebook named 
+See notebook named [sonyc_moving_window_abnormal_analysis.ipynb](https://github.com/drawbrooklyn/digitalceqr/blob/master/CHAPTER%2019%20-%20NOISE/sonyc_moving_window_abnormal_analysis.ipynb)
