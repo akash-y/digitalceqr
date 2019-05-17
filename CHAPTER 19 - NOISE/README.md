@@ -20,3 +20,8 @@ Data:
 - Trucks routes 
 - ZAP: permits / constructions
 - 311 Noise complaints: _please note that 311 data biases must be acknowledged_
+
+### Analysis
+For the **SONYC** data analysis of detecting trucks, we will use **Network traffic anomaly detection based on sliding window** technique. Through sliding time window, traffic anomaly detection will be limited to the specified scope of time. This significantly reduces the amount of data analysis to improve the speed of anomaly detection. Using the dataset from real network to simulate, we validate that the proposed algorithm is effective and feasible.
+
+See notebook named 
