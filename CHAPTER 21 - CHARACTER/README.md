@@ -6,7 +6,7 @@ Subjects to be considered in this analysis:
 * Property values
 * Business filings and trends
 * Zoning and land use applications
-* Employment data
+* Employment
 * Social media
 
 Data:
