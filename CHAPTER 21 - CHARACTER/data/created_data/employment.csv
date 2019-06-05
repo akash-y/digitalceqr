@@ -1,0 +1,722 @@
+"Area
+Code",St,Cnty,Own,NAICS,Year,Qtr,Area Type,St Name,Area,Ownership,Industry,Annual Average Status Code,Annual Average Establishment Count,Annual Average Employment,Annual Total Wages,Annual Average Weekly Wage,Annual Average Pay,Employment Location Quotient Relative to U.S.,Total Wage Location Quotient Relative to U.S.
+36005,36,5.0,0,10,2010,A,County,New York,"Bronx County, New York",Total Covered,"Total, all industries",,16613,232682,10406183101,860,44723,1.0,1.0
+36005,36,5.0,1,10,2010,A,County,New York,"Bronx County, New York",Federal Government,"Total, all industries",,73,7833,581749039,1428,74267,1.44,1.62
+36005,36,5.0,2,10,2010,A,County,New York,"Bronx County, New York",State Government,"Total, all industries",,10,2221,146187497,1266,65811,0.26,0.37
+36005,36,5.0,3,10,2010,A,County,New York,"Bronx County, New York",Local Government,"Total, all industries",,12,12947,746346574,1109,57648,0.51,0.7
+36005,36,5.0,5,10,2010,A,County,New York,"Bronx County, New York",Private,"Total, all industries",,16517,209681,8931899991,819,42598,1.08,1.04
+36005,36,5.0,5,101,2010,A,County,New York,"Bronx County, New York",Private,Goods-producing,,1466,16051,893957954,1071,55696,0.47,0.5
+36005,36,5.0,5,1011,2010,A,County,New York,"Bronx County, New York",Private,Natural resources and mining,,5,36,1537203,812,42212,0.01,0.01
+36005,36,5.0,5,1012,2010,A,County,New York,"Bronx County, New York",Private,Construction,,1093,9394,617046653,1263,65686,0.94,1.3
+36005,36,5.0,5,1013,2010,A,County,New York,"Bronx County, New York",Private,Manufacturing,,368,6620,275374098,800,41595,0.32,0.24
+36005,36,5.0,5,102,2010,A,County,New York,"Bronx County, New York",Private,Service-providing,,15052,193630,8037942037,798,41512,1.22,1.18
+36005,36,5.0,5,1021,2010,A,County,New York,"Bronx County, New York",Private,"Trade, transportation, and utilities",,4440,44105,1653952457,721,37500,0.99,0.99
+36005,36,5.0,5,1022,2010,A,County,New York,"Bronx County, New York",Private,Information,,106,3312,198264812,1151,59863,0.67,0.57
+36005,36,5.0,5,1023,2010,A,County,New York,"Bronx County, New York",Private,Financial activities,,2713,13556,527812459,749,38936,1.01,0.55
+36005,36,5.0,5,1024,2010,A,County,New York,"Bronx County, New York",Private,Professional and business services,,1177,12412,474185595,735,38203,0.41,0.27
+36005,36,5.0,5,1025,2010,A,County,New York,"Bronx County, New York",Private,Education and health services,,2176,95522,4406417352,887,46130,2.81,3.11
+36005,36,5.0,5,1026,2010,A,County,New York,"Bronx County, New York",Private,Leisure and hospitality,,1661,15893,539392578,653,33939,0.67,1.23
+36005,36,5.0,5,1027,2010,A,County,New York,"Bronx County, New York",Private,Other services,,1926,8103,222668627,528,27479,1.02,1.0
+36005,36,5.0,5,1029,2010,A,County,New York,"Bronx County, New York",Private,Unclassified,,853,726,15248157,404,20993,2.61,1.13
+36047,36,47.0,0,10,2010,A,County,New York,"Kings County, New York",Total Covered,"Total, all industries",,49101,492125,19544016141,764,39714,1.0,1.0
+36047,36,47.0,1,10,2010,A,County,New York,"Kings County, New York",Federal Government,"Total, all industries",,76,8801,531632065,1162,60408,0.77,0.79
+36047,36,47.0,2,10,2010,A,County,New York,"Kings County, New York",State Government,"Total, all industries",,17,8930,425292631,916,47626,0.5,0.58
+36047,36,47.0,3,10,2010,A,County,New York,"Kings County, New York",Local Government,"Total, all industries",,16,19053,1080887288,1091,56731,0.35,0.54
+36047,36,47.0,5,10,2010,A,County,New York,"Kings County, New York",Private,"Total, all industries",,48992,455342,17506204157,739,38446,1.11,1.08
+36047,36,47.0,5,101,2010,A,County,New York,"Kings County, New York",Private,Goods-producing,,5290,42544,1967471981,889,46245,0.59,0.59
+36047,36,47.0,5,1011,2010,A,County,New York,"Kings County, New York",Private,Natural resources and mining,,19,93,2741988,566,29457,0.01,0.01
+36047,36,47.0,5,1012,2010,A,County,New York,"Kings County, New York",Private,Construction,,3487,22909,1256344249,1055,54841,1.08,1.41
+36047,36,47.0,5,1013,2010,A,County,New York,"Kings County, New York",Private,Manufacturing,,1783,19542,708385744,697,36249,0.44,0.33
+36047,36,47.0,5,102,2010,A,County,New York,"Kings County, New York",Private,Service-providing,,43702,412797,15538732176,724,37643,1.23,1.21
+36047,36,47.0,5,1021,2010,A,County,New York,"Kings County, New York",Private,"Trade, transportation, and utilities",,12466,106064,3750931704,680,35365,1.13,1.2
+36047,36,47.0,5,1022,2010,A,County,New York,"Kings County, New York",Private,Information,,630,6693,425073044,1221,63511,0.64,0.65
+36047,36,47.0,5,1023,2010,A,County,New York,"Kings County, New York",Private,Financial activities,,5408,28989,1517003115,1006,52330,1.02,0.85
+36047,36,47.0,5,1024,2010,A,County,New York,"Kings County, New York",Private,Professional and business services,,5155,38149,1560107899,786,40896,0.59,0.47
+36047,36,47.0,5,1025,2010,A,County,New York,"Kings County, New York",Private,Education and health services,,6396,175599,6980154380,764,39751,2.44,2.62
+36047,36,47.0,5,1026,2010,A,County,New York,"Kings County, New York",Private,Leisure and hospitality,,4318,30643,631560692,396,20611,0.61,0.77
+36047,36,47.0,5,1027,2010,A,County,New York,"Kings County, New York",Private,Other services,,5645,22672,572566685,486,25254,1.35,1.37
+36047,36,47.0,5,1029,2010,A,County,New York,"Kings County, New York",Private,Unclassified,,3685,3990,101334657,488,25400,6.79,4.02
+36061,36,61.0,0,10,2010,A,County,New York,"New York County, New York",Total Covered,"Total, all industries",,119874,2280092,224413438545,1893,98423,1.0,1.0
+36061,36,61.0,1,10,2010,A,County,New York,"New York County, New York",Federal Government,"Total, all industries",,147,24286,1936440580,1533,79736,0.46,0.25
+36061,36,61.0,2,10,2010,A,County,New York,"New York County, New York",State Government,"Total, all industries",,70,21767,1469829076,1299,67527,0.26,0.17
+36061,36,61.0,3,10,2010,A,County,New York,"New York County, New York",Local Government,"Total, all industries",,68,398935,21651969805,1044,54274,1.59,0.94
+36061,36,61.0,5,10,2010,A,County,New York,"New York County, New York",Private,"Total, all industries",,119589,1835104,199355199084,2089,108634,0.97,1.08
+36061,36,61.0,5,101,2010,A,County,New York,"New York County, New York",Private,Goods-producing,,4800,57021,4675382704,1577,81994,0.17,0.12
+36061,36,61.0,5,1011,2010,A,County,New York,"New York County, New York",Private,Natural resources and mining,,26,135,16476253,2344,121896,0.0,0.0
+36061,36,61.0,5,1012,2010,A,County,New York,"New York County, New York",Private,Construction,,2232,30290,2615010559,1660,86332,0.31,0.26
+36061,36,61.0,5,1013,2010,A,County,New York,"New York County, New York",Private,Manufacturing,,2542,26596,2043895892,1478,76850,0.13,0.08
+36061,36,61.0,5,102,2010,A,County,New York,"New York County, New York",Private,Service-providing,,114789,1778083,194679816380,2106,109489,1.14,1.33
+36061,36,61.0,5,1021,2010,A,County,New York,"New York County, New York",Private,"Trade, transportation, and utilities",,21056,234397,14722849254,1208,62812,0.54,0.41
+36061,36,61.0,5,1022,2010,A,County,New York,"New York County, New York",Private,Information,,4416,129353,14902507277,2216,115208,2.68,1.97
+36061,36,61.0,5,1023,2010,A,County,New York,"New York County, New York",Private,Financial activities,,18958,346637,82860800771,4597,239042,2.63,4.03
+36061,36,61.0,5,1024,2010,A,County,New York,"New York County, New York",Private,Professional and business services,,25541,456767,50727441690,2136,111058,1.53,1.34
+36061,36,61.0,5,1025,2010,A,County,New York,"New York County, New York",Private,Education and health services,,9081,295666,17166394643,1117,58060,0.89,0.56
+36061,36,61.0,5,1026,2010,A,County,New York,"New York County, New York",Private,Leisure and hospitality,,12295,223570,9147082294,787,40914,0.96,0.97
+36061,36,61.0,5,1027,2010,A,County,New York,"New York County, New York",Private,Other services,,18483,86513,4829154896,1073,55820,1.12,1.01
+36061,36,61.0,5,1029,2010,A,County,New York,"New York County, New York",Private,Unclassified,,4961,5179,323585555,1202,62482,1.9,1.12
+36081,36,81.0,0,10,2010,A,County,New York,"Queens County, New York",Total Covered,"Total, all industries",,44566,492558,22028666906,860,44723,1.0,1.0
+36081,36,81.0,1,10,2010,A,County,New York,"Queens County, New York",Federal Government,"Total, all industries",,79,15571,987320009,1219,63406,1.36,1.3
+36081,36,81.0,2,10,2010,A,County,New York,"Queens County, New York",State Government,"Total, all industries",,19,5080,314866369,1192,61978,0.29,0.38
+36081,36,81.0,3,10,2010,A,County,New York,"Queens County, New York",Local Government,"Total, all industries",,14,15753,943861156,1152,59916,0.29,0.42
+36081,36,81.0,5,10,2010,A,County,New York,"Queens County, New York",Private,"Total, all industries",,44454,456154,19782619372,834,43368,1.11,1.09
+36081,36,81.0,5,101,2010,A,County,New York,"Queens County, New York",Private,Goods-producing,,6189,62724,3757748483,1152,59909,0.87,1.0
+36081,36,81.0,5,1011,2010,A,County,New York,"Queens County, New York",Private,Natural resources and mining,,14,25,560973,429,22290,0.0,0.0
+36081,36,81.0,5,1012,2010,A,County,New York,"Queens County, New York",Private,Construction,,4766,40477,2764433705,1313,68296,1.91,2.75
+36081,36,81.0,5,1013,2010,A,County,New York,"Queens County, New York",Private,Manufacturing,,1410,22222,992753805,859,44675,0.5,0.41
+36081,36,81.0,5,102,2010,A,County,New York,"Queens County, New York",Private,Service-providing,,38265,393429,16024870889,783,40731,1.17,1.11
+36081,36,81.0,5,1021,2010,A,County,New York,"Queens County, New York",Private,"Trade, transportation, and utilities",,11264,136609,5855876280,824,42866,1.45,1.66
+36081,36,81.0,5,1022,2010,A,County,New York,"Queens County, New York",Private,Information,,527,8335,494678264,1141,59350,0.8,0.67
+36081,36,81.0,5,1023,2010,A,County,New York,"Queens County, New York",Private,Financial activities,,4625,29710,1862556142,1206,62690,1.04,0.92
+36081,36,81.0,5,1024,2010,A,County,New York,"Queens County, New York",Private,Professional and business services,,4591,39336,1586289181,776,40327,0.61,0.43
+36081,36,81.0,5,1025,2010,A,County,New York,"Queens County, New York",Private,Education and health services,,5248,116554,4642521549,766,39832,1.62,1.55
+36081,36,81.0,5,1026,2010,A,County,New York,"Queens County, New York",Private,Leisure and hospitality,,4280,39070,911014506,448,23318,0.78,0.98
+36081,36,81.0,5,1027,2010,A,County,New York,"Queens County, New York",Private,Other services,,4743,20975,596456863,547,28437,1.25,1.27
+36081,36,81.0,5,1029,2010,A,County,New York,"Queens County, New York",Private,Unclassified,,2988,2841,75478104,511,26572,4.83,2.65
+36085,36,85.0,0,10,2010,A,County,New York,"Richmond County, New York",Total Covered,"Total, all industries",,8768,93156,3750753350,774,40263,1.0,1.0
+36085,36,85.0,1,10,2010,A,County,New York,"Richmond County, New York",Federal Government,"Total, all industries",,23,1419,76478701,1036,53896,0.65,0.59
+36085,36,85.0,2,10,2010,A,County,New York,"Richmond County, New York",State Government,"Total, all industries",,8,2436,169243996,1336,69467,0.73,1.2
+36085,36,85.0,3,10,2010,A,County,New York,"Richmond County, New York",Local Government,"Total, all industries",,8,3015,151921864,969,50397,0.29,0.4
+36085,36,85.0,5,10,2010,A,County,New York,"Richmond County, New York",Private,"Total, all industries",,8729,86286,3353108789,747,38860,1.11,1.08
+36085,36,85.0,5,101,2010,A,County,New York,"Richmond County, New York",Private,Goods-producing,,1243,7081,405296701,1101,57237,0.52,0.63
+36085,36,85.0,5,1011,2010,A,County,New York,"Richmond County, New York",Private,Natural resources and mining,N,1,0,0,0,0,0.0,0.0
+36085,36,85.0,5,1012,2010,A,County,New York,"Richmond County, New York",Private,Construction,,1102,5867,345323487,1132,58861,1.47,2.02
+36085,36,85.0,5,1013,2010,A,County,New York,"Richmond County, New York",Private,Manufacturing,N,140,0,0,0,0,0.0,0.0
+36085,36,85.0,5,102,2010,A,County,New York,"Richmond County, New York",Private,Service-providing,,7486,79205,2947812088,716,37217,1.24,1.2
+36085,36,85.0,5,1021,2010,A,County,New York,"Richmond County, New York",Private,"Trade, transportation, and utilities",,1784,23394,820461030,674,35072,1.31,1.37
+36085,36,85.0,5,1022,2010,A,County,New York,"Richmond County, New York",Private,Information,,95,2000,126915555,1220,63466,1.01,1.01
+36085,36,85.0,5,1023,2010,A,County,New York,"Richmond County, New York",Private,Financial activities,,705,3282,152930477,896,46601,0.61,0.44
+36085,36,85.0,5,1024,2010,A,County,New York,"Richmond County, New York",Private,Professional and business services,,1313,6712,269284543,772,40118,0.55,0.43
+36085,36,85.0,5,1025,2010,A,County,New York,"Richmond County, New York",Private,Education and health services,,1364,30870,1332012577,830,43150,2.27,2.61
+36085,36,85.0,5,1026,2010,A,County,New York,"Richmond County, New York",Private,Leisure and hospitality,,824,8232,134280113,314,16311,0.87,0.85
+36085,36,85.0,5,1027,2010,A,County,New York,"Richmond County, New York",Private,Other services,,908,4265,99484810,449,23326,1.35,1.24
+36085,36,85.0,5,1029,2010,A,County,New York,"Richmond County, New York",Private,Unclassified,,494,451,12442983,530,27585,4.05,2.57
+36005,36,5.0,0,10,2011,A,County,New York,"Bronx County, New York",Total Covered,"Total, all industries",,16794,234708,10628557926,871,45284,1.0,1.0
+36005,36,5.0,1,10,2011,A,County,New York,"Bronx County, New York",Federal Government,"Total, all industries",,75,7305,613157233,1614,83937,1.41,1.72
+36005,36,5.0,2,10,2011,A,County,New York,"Bronx County, New York",State Government,"Total, all industries",,11,2116,140753993,1279,66511,0.26,0.36
+36005,36,5.0,3,10,2011,A,County,New York,"Bronx County, New York",Local Government,"Total, all industries",,11,12563,736835944,1128,58652,0.5,0.71
+36005,36,5.0,5,10,2011,A,County,New York,"Bronx County, New York",Private,"Total, all industries",,16697,212724,9137810756,826,42956,1.08,1.03
+36005,36,5.0,5,101,2011,A,County,New York,"Bronx County, New York",Private,Goods-producing,,1420,15429,847194033,1056,54908,0.45,0.46
+36005,36,5.0,5,1011,2011,A,County,New York,"Bronx County, New York",Private,Natural resources and mining,,5,41,1824419,854,44408,0.01,0.01
+36005,36,5.0,5,1012,2011,A,County,New York,"Bronx County, New York",Private,Construction,,1060,8895,578601283,1251,65047,0.9,1.22
+36005,36,5.0,5,1013,2011,A,County,New York,"Bronx County, New York",Private,Manufacturing,,355,6493,266768331,790,41085,0.31,0.23
+36005,36,5.0,5,102,2011,A,County,New York,"Bronx County, New York",Private,Service-providing,,15277,197294,8290616723,808,42022,1.22,1.18
+36005,36,5.0,5,1021,2011,A,County,New York,"Bronx County, New York",Private,"Trade, transportation, and utilities",,4479,45531,1739906834,735,38214,1.01,1.02
+36005,36,5.0,5,1022,2011,A,County,New York,"Bronx County, New York",Private,Information,,103,3218,192155487,1148,59716,0.66,0.54
+36005,36,5.0,5,1023,2011,A,County,New York,"Bronx County, New York",Private,Financial activities,,2674,13541,532101913,756,39296,1.01,0.54
+36005,36,5.0,5,1024,2011,A,County,New York,"Bronx County, New York",Private,Professional and business services,,1247,12932,488228623,726,37753,0.41,0.27
+36005,36,5.0,5,1025,2011,A,County,New York,"Bronx County, New York",Private,Education and health services,,2233,96928,4570668838,907,47155,2.81,3.16
+36005,36,5.0,5,1026,2011,A,County,New York,"Bronx County, New York",Private,Leisure and hospitality,,1666,16167,528039828,628,32662,0.67,1.18
+36005,36,5.0,5,1027,2011,A,County,New York,"Bronx County, New York",Private,Other services,,1944,8114,222474756,527,27418,1.01,0.99
+36005,36,5.0,5,1029,2011,A,County,New York,"Bronx County, New York",Private,Unclassified,,933,864,17040444,379,19728,2.74,1.09
+36047,36,47.0,0,10,2011,A,County,New York,"Kings County, New York",Total Covered,"Total, all industries",,50846,506547,20037274756,761,39557,1.0,1.0
+36047,36,47.0,1,10,2011,A,County,New York,"Kings County, New York",Federal Government,"Total, all industries",,76,6697,478865417,1375,71508,0.6,0.71
+36047,36,47.0,2,10,2011,A,County,New York,"Kings County, New York",State Government,"Total, all industries",,17,8858,410572694,891,46351,0.5,0.56
+36047,36,47.0,3,10,2011,A,County,New York,"Kings County, New York",Local Government,"Total, all industries",,15,18484,1048053762,1090,56700,0.34,0.54
+36047,36,47.0,5,10,2011,A,County,New York,"Kings County, New York",Private,"Total, all industries",,50737,472508,18099782883,737,38306,1.12,1.09
+36047,36,47.0,5,101,2011,A,County,New York,"Kings County, New York",Private,Goods-producing,,5183,42526,1972163988,892,46376,0.57,0.57
+36047,36,47.0,5,1011,2011,A,County,New York,"Kings County, New York",Private,Natural resources and mining,,18,92,3171387,666,34628,0.01,0.01
+36047,36,47.0,5,1012,2011,A,County,New York,"Kings County, New York",Private,Construction,,3431,22959,1265754034,1060,55130,1.07,1.42
+36047,36,47.0,5,1013,2011,A,County,New York,"Kings County, New York",Private,Manufacturing,,1735,19475,703238567,694,36110,0.43,0.31
+36047,36,47.0,5,102,2011,A,County,New York,"Kings County, New York",Private,Service-providing,,45554,429982,16127618895,721,37508,1.23,1.22
+36047,36,47.0,5,1021,2011,A,County,New York,"Kings County, New York",Private,"Trade, transportation, and utilities",,12761,108151,3838680808,683,35494,1.11,1.19
+36047,36,47.0,5,1022,2011,A,County,New York,"Kings County, New York",Private,Information,,645,6745,434725787,1239,64449,0.64,0.64
+36047,36,47.0,5,1023,2011,A,County,New York,"Kings County, New York",Private,Financial activities,,5472,29325,1567800673,1028,53463,1.01,0.85
+36047,36,47.0,5,1024,2011,A,County,New York,"Kings County, New York",Private,Professional and business services,,5322,40042,1637312891,786,40890,0.59,0.47
+36047,36,47.0,5,1025,2011,A,County,New York,"Kings County, New York",Private,Education and health services,,6581,183463,7209720066,756,39298,2.46,2.65
+36047,36,47.0,5,1026,2011,A,County,New York,"Kings County, New York",Private,Leisure and hospitality,,4563,33873,713488202,405,21064,0.65,0.84
+36047,36,47.0,5,1027,2011,A,County,New York,"Kings County, New York",Private,Other services,,5928,23686,598594437,486,25273,1.37,1.41
+36047,36,47.0,5,1029,2011,A,County,New York,"Kings County, New York",Private,Unclassified,,4284,4698,127296031,521,27094,6.91,4.32
+36061,36,61.0,0,10,2011,A,County,New York,"New York County, New York",Total Covered,"Total, all industries",,120809,2329322,236060616183,1949,101343,1.0,1.0
+36061,36,61.0,1,10,2011,A,County,New York,"New York County, New York",Federal Government,"Total, all industries",,152,22071,1840394196,1604,83387,0.43,0.23
+36061,36,61.0,2,10,2011,A,County,New York,"New York County, New York",State Government,"Total, all industries",,69,21064,1431518636,1307,67962,0.26,0.16
+36061,36,61.0,3,10,2011,A,County,New York,"New York County, New York",Local Government,"Total, all industries",,67,392867,21758951064,1065,55385,1.58,0.94
+36061,36,61.0,5,10,2011,A,County,New York,"New York County, New York",Private,"Total, all industries",,120521,1893321,211029752287,2143,111460,0.97,1.07
+36061,36,61.0,5,101,2011,A,County,New York,"New York County, New York",Private,Goods-producing,,4619,56428,4686312990,1597,83050,0.16,0.12
+36061,36,61.0,5,1011,2011,A,County,New York,"New York County, New York",Private,Natural resources and mining,,24,132,13806282,2008,104395,0.0,0.0
+36061,36,61.0,5,1012,2011,A,County,New York,"New York County, New York",Private,Construction,,2157,30366,2689364705,1703,88565,0.31,0.26
+36061,36,61.0,5,1013,2011,A,County,New York,"New York County, New York",Private,Manufacturing,,2438,25929,1983142003,1471,76483,0.12,0.08
+36061,36,61.0,5,102,2011,A,County,New York,"New York County, New York",Private,Service-providing,,115902,1836893,206343439297,2160,112333,1.15,1.33
+36061,36,61.0,5,1021,2011,A,County,New York,"New York County, New York",Private,"Trade, transportation, and utilities",,20986,243042,15835082691,1253,65154,0.54,0.42
+36061,36,61.0,5,1022,2011,A,County,New York,"New York County, New York",Private,Information,,4330,137117,16226980818,2276,118344,2.85,2.04
+36061,36,61.0,5,1023,2011,A,County,New York,"New York County, New York",Private,Financial activities,,18984,355848,87769965842,4743,246650,2.67,4.03
+36061,36,61.0,5,1024,2011,A,County,New York,"New York County, New York",Private,Professional and business services,,25358,469837,53830642584,2203,114573,1.51,1.32
+36061,36,61.0,5,1025,2011,A,County,New York,"New York County, New York",Private,Education and health services,,9244,299256,17895629428,1150,59800,0.87,0.56
+36061,36,61.0,5,1026,2011,A,County,New York,"New York County, New York",Private,Leisure and hospitality,,12750,238025,9832677552,794,41309,0.99,0.99
+36061,36,61.0,5,1027,2011,A,County,New York,"New York County, New York",Private,Other services,,18800,88563,4609367685,1001,52046,1.12,0.92
+36061,36,61.0,5,1029,2011,A,County,New York,"New York County, New York",Private,Unclassified,,5453,5206,343092697,1267,65903,1.66,0.99
+36081,36,81.0,0,10,2011,A,County,New York,"Queens County, New York",Total Covered,"Total, all industries",,45614,502259,22689948955,869,45176,1.0,1.0
+36081,36,81.0,1,10,2011,A,County,New York,"Queens County, New York",Federal Government,"Total, all industries",,79,14327,976160402,1310,68137,1.29,1.28
+36081,36,81.0,2,10,2011,A,County,New York,"Queens County, New York",State Government,"Total, all industries",,19,4874,300739477,1187,61706,0.28,0.36
+36081,36,81.0,3,10,2011,A,County,New York,"Queens County, New York",Local Government,"Total, all industries",,13,15210,915039202,1157,60161,0.28,0.41
+36081,36,81.0,5,10,2011,A,County,New York,"Queens County, New York",Private,"Total, all industries",,45502,467849,20498009874,843,43813,1.11,1.09
+36081,36,81.0,5,101,2011,A,County,New York,"Queens County, New York",Private,Goods-producing,,6036,61544,3795316067,1186,61669,0.83,0.97
+36081,36,81.0,5,1011,2011,A,County,New York,"Queens County, New York",Private,Natural resources and mining,,14,26,507402,375,19515,0.0,0.0
+36081,36,81.0,5,1012,2011,A,County,New York,"Queens County, New York",Private,Construction,,4656,39867,2812068679,1356,70537,1.88,2.78
+36081,36,81.0,5,1013,2011,A,County,New York,"Queens County, New York",Private,Manufacturing,,1366,21651,982739986,873,45390,0.48,0.39
+36081,36,81.0,5,102,2011,A,County,New York,"Queens County, New York",Private,Service-providing,,39467,406305,16702693807,791,41109,1.17,1.12
+36081,36,81.0,5,1021,2011,A,County,New York,"Queens County, New York",Private,"Trade, transportation, and utilities",,11461,140866,6082085812,830,43176,1.46,1.67
+36081,36,81.0,5,1022,2011,A,County,New York,"Queens County, New York",Private,Information,,503,8323,484508739,1119,58211,0.8,0.63
+36081,36,81.0,5,1023,2011,A,County,New York,"Queens County, New York",Private,Financial activities,,4668,30190,2005738196,1278,66437,1.05,0.96
+36081,36,81.0,5,1024,2011,A,County,New York,"Queens County, New York",Private,Professional and business services,,4724,43012,1735998387,776,40361,0.64,0.44
+36081,36,81.0,5,1025,2011,A,County,New York,"Queens County, New York",Private,Education and health services,,5386,117262,4698132280,770,40065,1.59,1.52
+36081,36,81.0,5,1026,2011,A,County,New York,"Queens County, New York",Private,Leisure and hospitality,,4453,41204,987570216,461,23968,0.8,1.03
+36081,36,81.0,5,1027,2011,A,County,New York,"Queens County, New York",Private,Other services,,4899,22178,627488543,544,28293,1.3,1.3
+36081,36,81.0,5,1029,2011,A,County,New York,"Queens County, New York",Private,Unclassified,,3374,3270,81171634,477,24821,4.85,2.43
+36085,36,85.0,0,10,2011,A,County,New York,"Richmond County, New York",Total Covered,"Total, all industries",,8894,91612,3752601916,788,40962,1.0,1.0
+36085,36,85.0,1,10,2011,A,County,New York,"Richmond County, New York",Federal Government,"Total, all industries",,23,1113,69523296,1201,62474,0.55,0.55
+36085,36,85.0,2,10,2011,A,County,New York,"Richmond County, New York",State Government,"Total, all industries",,8,2291,157954450,1326,68953,0.71,1.14
+36085,36,85.0,3,10,2011,A,County,New York,"Richmond County, New York",Local Government,"Total, all industries",,7,2936,145017009,950,49387,0.3,0.4
+36085,36,85.0,5,10,2011,A,County,New York,"Richmond County, New York",Private,"Total, all industries",,8856,85272,3380107161,762,39639,1.11,1.08
+36085,36,85.0,5,101,2011,A,County,New York,"Richmond County, New York",Private,Goods-producing,,1186,7043,403978099,1103,57355,0.52,0.62
+36085,36,85.0,5,1011,2011,A,County,New York,"Richmond County, New York",Private,Natural resources and mining,N,2,0,0,0,0,0.0,0.0
+36085,36,85.0,5,1012,2011,A,County,New York,"Richmond County, New York",Private,Construction,,1048,5848,345019816,1135,59002,1.51,2.06
+36085,36,85.0,5,1013,2011,A,County,New York,"Richmond County, New York",Private,Manufacturing,N,136,0,0,0,0,0.0,0.0
+36085,36,85.0,5,102,2011,A,County,New York,"Richmond County, New York",Private,Service-providing,,7670,78228,2976129062,732,38044,1.24,1.2
+36085,36,85.0,5,1021,2011,A,County,New York,"Richmond County, New York",Private,"Trade, transportation, and utilities",,1847,21824,808713473,713,37056,1.24,1.34
+36085,36,85.0,5,1022,2011,A,County,New York,"Richmond County, New York",Private,Information,,80,1934,120166676,1195,62120,1.02,0.95
+36085,36,85.0,5,1023,2011,A,County,New York,"Richmond County, New York",Private,Financial activities,,707,3321,163468610,947,49226,0.63,0.47
+36085,36,85.0,5,1024,2011,A,County,New York,"Richmond County, New York",Private,Professional and business services,,1341,7199,284192618,759,39479,0.59,0.44
+36085,36,85.0,5,1025,2011,A,County,New York,"Richmond County, New York",Private,Education and health services,,1384,30698,1347390067,844,43892,2.28,2.64
+36085,36,85.0,5,1026,2011,A,County,New York,"Richmond County, New York",Private,Leisure and hospitality,,825,8313,137977232,319,16598,0.88,0.87
+36085,36,85.0,5,1027,2011,A,County,New York,"Richmond County, New York",Private,Other services,,952,4469,100921448,434,22583,1.43,1.27
+36085,36,85.0,5,1029,2011,A,County,New York,"Richmond County, New York",Private,Unclassified,,535,471,13298938,543,28256,3.83,2.41
+36005,36,5.0,0,10,2012,A,County,New York,"Bronx County, New York",Total Covered,"Total, all industries",,16982,236093,10911990505,889,46219,1.0,1.0
+36005,36,5.0,1,10,2012,A,County,New York,"Bronx County, New York",Federal Government,"Total, all industries",,72,7330,637173882,1672,86924,1.45,1.83
+36005,36,5.0,2,10,2012,A,County,New York,"Bronx County, New York",State Government,"Total, all industries",,11,1927,131466431,1312,68212,0.24,0.34
+36005,36,5.0,3,10,2012,A,County,New York,"Bronx County, New York",Local Government,"Total, all industries",,11,12495,752640039,1158,60236,0.51,0.74
+36005,36,5.0,5,10,2012,A,County,New York,"Bronx County, New York",Private,"Total, all industries",,16889,214340,9390710153,843,43812,1.08,1.03
+36005,36,5.0,5,101,2012,A,County,New York,"Bronx County, New York",Private,Goods-producing,,1397,15604,850719010,1048,54520,0.45,0.45
+36005,36,5.0,5,1011,2012,A,County,New York,"Bronx County, New York",Private,Natural resources and mining,,6,31,1511453,938,48757,0.01,0.01
+36005,36,5.0,5,1012,2012,A,County,New York,"Bronx County, New York",Private,Construction,,1049,9060,571237763,1213,63051,0.9,1.16
+36005,36,5.0,5,1013,2012,A,County,New York,"Bronx County, New York",Private,Manufacturing,,342,6513,277969794,821,42681,0.31,0.23
+36005,36,5.0,5,102,2012,A,County,New York,"Bronx County, New York",Private,Service-providing,,15492,198737,8539991143,826,42971,1.22,1.18
+36005,36,5.0,5,1021,2012,A,County,New York,"Bronx County, New York",Private,"Trade, transportation, and utilities",,4482,45662,1768929821,745,38740,1.01,1.01
+36005,36,5.0,5,1022,2012,A,County,New York,"Bronx County, New York",Private,Information,,91,3078,191811323,1198,62313,0.64,0.52
+36005,36,5.0,5,1023,2012,A,County,New York,"Bronx County, New York",Private,Financial activities,,2669,13730,547837553,767,39900,1.02,0.54
+36005,36,5.0,5,1024,2012,A,County,New York,"Bronx County, New York",Private,Professional and business services,,1217,12869,491398142,734,38186,0.4,0.25
+36005,36,5.0,5,1025,2012,A,County,New York,"Bronx County, New York",Private,Education and health services,,2260,97197,4709411293,932,48452,2.79,3.19
+36005,36,5.0,5,1026,2012,A,County,New York,"Bronx County, New York",Private,Leisure and hospitality,,1670,17005,584499916,661,34373,0.69,1.25
+36005,36,5.0,5,1027,2012,A,County,New York,"Bronx County, New York",Private,Other services,,1902,8158,225902211,532,27690,1.0,0.98
+36005,36,5.0,5,1029,2012,A,County,New York,"Bronx County, New York",Private,Unclassified,,1201,1037,20200884,375,19482,3.36,1.33
+36047,36,47.0,0,10,2012,A,County,New York,"Kings County, New York",Total Covered,"Total, all industries",,52787,519116,20591738718,763,39667,1.0,1.0
+36047,36,47.0,1,10,2012,A,County,New York,"Kings County, New York",Federal Government,"Total, all industries",,74,6544,469135163,1379,71692,0.59,0.71
+36047,36,47.0,2,10,2012,A,County,New York,"Kings County, New York",State Government,"Total, all industries",,17,8780,412197303,903,46948,0.49,0.56
+36047,36,47.0,3,10,2012,A,County,New York,"Kings County, New York",Local Government,"Total, all industries",,14,18368,1057003058,1107,57546,0.34,0.55
+36047,36,47.0,5,10,2012,A,County,New York,"Kings County, New York",Private,"Total, all industries",,52682,485425,18653403194,739,38427,1.11,1.08
+36047,36,47.0,5,101,2012,A,County,New York,"Kings County, New York",Private,Goods-producing,,5180,43214,2003969099,892,46374,0.56,0.56
+36047,36,47.0,5,1011,2012,A,County,New York,"Kings County, New York",Private,Natural resources and mining,,13,72,2383404,635,33026,0.01,0.01
+36047,36,47.0,5,1012,2012,A,County,New York,"Kings County, New York",Private,Construction,,3423,23258,1267009443,1048,54476,1.06,1.37
+36047,36,47.0,5,1013,2012,A,County,New York,"Kings County, New York",Private,Manufacturing,,1744,19883,734576252,710,36944,0.42,0.32
+36047,36,47.0,5,102,2012,A,County,New York,"Kings County, New York",Private,Service-providing,,47502,442211,16649434095,724,37650,1.23,1.21
+36047,36,47.0,5,1021,2012,A,County,New York,"Kings County, New York",Private,"Trade, transportation, and utilities",,13016,111126,4012194340,694,36105,1.12,1.21
+36047,36,47.0,5,1022,2012,A,County,New York,"Kings County, New York",Private,Information,,683,6877,441288859,1234,64167,0.65,0.63
+36047,36,47.0,5,1023,2012,A,County,New York,"Kings County, New York",Private,Financial activities,,5448,29311,1563964751,1026,53358,0.99,0.82
+36047,36,47.0,5,1024,2012,A,County,New York,"Kings County, New York",Private,Professional and business services,,5503,41734,1774134819,818,42511,0.59,0.48
+36047,36,47.0,5,1025,2012,A,County,New York,"Kings County, New York",Private,Education and health services,,6704,186388,7284861875,752,39084,2.44,2.61
+36047,36,47.0,5,1026,2012,A,County,New York,"Kings County, New York",Private,Leisure and hospitality,,4752,36940,813228904,423,22015,0.68,0.92
+36047,36,47.0,5,1027,2012,A,County,New York,"Kings County, New York",Private,Other services,,6107,24547,621527431,487,25320,1.37,1.43
+36047,36,47.0,5,1029,2012,A,County,New York,"Kings County, New York",Private,Unclassified,,5290,5288,138233116,503,26139,7.8,4.84
+36061,36,61.0,0,10,2012,A,County,New York,"New York County, New York",Total Covered,"Total, all industries",,122390,2383607,242842082607,1959,101880,1.0,1.0
+36061,36,61.0,1,10,2012,A,County,New York,"New York County, New York",Federal Government,"Total, all industries",,153,21248,1799832500,1629,84706,0.42,0.23
+36061,36,61.0,2,10,2012,A,County,New York,"New York County, New York",State Government,"Total, all industries",,69,20400,1410552891,1330,69144,0.25,0.16
+36061,36,61.0,3,10,2012,A,County,New York,"New York County, New York",Local Government,"Total, all industries",,65,394210,21933088476,1070,55638,1.59,0.96
+36061,36,61.0,5,10,2012,A,County,New York,"New York County, New York",Private,"Total, all industries",,122104,1947749,217698608740,2149,111769,0.97,1.07
+36061,36,61.0,5,101,2012,A,County,New York,"New York County, New York",Private,Goods-producing,,4523,58201,4746491160,1568,81553,0.17,0.11
+36061,36,61.0,5,1011,2012,A,County,New York,"New York County, New York",Private,Natural resources and mining,,23,142,14173078,1925,100104,0.0,0.0
+36061,36,61.0,5,1012,2012,A,County,New York,"New York County, New York",Private,Construction,,2128,31685,2851804686,1731,90006,0.31,0.26
+36061,36,61.0,5,1013,2012,A,County,New York,"New York County, New York",Private,Manufacturing,,2372,26375,1880513396,1371,71300,0.12,0.07
+36061,36,61.0,5,102,2012,A,County,New York,"New York County, New York",Private,Service-providing,,117581,1889548,212952117580,2167,112700,1.15,1.32
+36061,36,61.0,5,1021,2012,A,County,New York,"New York County, New York",Private,"Trade, transportation, and utilities",,20874,251428,17354520950,1327,69024,0.55,0.44
+36061,36,61.0,5,1022,2012,A,County,New York,"New York County, New York",Private,Information,,4364,141184,17461992067,2379,123683,2.91,2.13
+36061,36,61.0,5,1023,2012,A,County,New York,"New York County, New York",Private,Financial activities,,18893,353234,86980666357,4735,246241,2.6,3.87
+36061,36,61.0,5,1024,2012,A,County,New York,"New York County, New York",Private,Professional and business services,,25582,486009,56552118347,2238,116360,1.5,1.31
+36061,36,61.0,5,1025,2012,A,County,New York,"New York County, New York",Private,Education and health services,,9312,307611,18692083458,1169,60765,0.88,0.57
+36061,36,61.0,5,1026,2012,A,County,New York,"New York County, New York",Private,Leisure and hospitality,,13007,252211,10599147779,808,42025,1.01,1.02
+36061,36,61.0,5,1027,2012,A,County,New York,"New York County, New York",Private,Other services,,19040,92065,4966807517,1037,53949,1.12,0.97
+36061,36,61.0,5,1029,2012,A,County,New York,"New York County, New York",Private,Unclassified,,6510,5806,344781105,1142,59386,1.87,1.02
+36081,36,81.0,0,10,2012,A,County,New York,"Queens County, New York",Total Covered,"Total, all industries",,46989,520650,23773816130,878,45662,1.0,1.0
+36081,36,81.0,1,10,2012,A,County,New York,"Queens County, New York",Federal Government,"Total, all industries",,78,14107,976900463,1332,69252,1.27,1.29
+36081,36,81.0,2,10,2012,A,County,New York,"Queens County, New York",State Government,"Total, all industries",,19,4698,301032056,1232,64073,0.26,0.35
+36081,36,81.0,3,10,2012,A,County,New York,"Queens County, New York",Local Government,"Total, all industries",,13,15209,935480579,1183,61508,0.28,0.42
+36081,36,81.0,5,10,2012,A,County,New York,"Queens County, New York",Private,"Total, all industries",,46879,486637,21560403032,852,44305,1.11,1.08
+36081,36,81.0,5,101,2012,A,County,New York,"Queens County, New York",Private,Goods-producing,,5937,63408,3946112319,1197,62234,0.82,0.96
+36081,36,81.0,5,1011,2012,A,County,New York,"Queens County, New York",Private,Natural resources and mining,,12,33,482921,281,14597,0.0,0.0
+36081,36,81.0,5,1012,2012,A,County,New York,"Queens County, New York",Private,Construction,,4580,41483,2955288376,1370,71242,1.88,2.76
+36081,36,81.0,5,1013,2012,A,County,New York,"Queens County, New York",Private,Manufacturing,,1345,21892,990341022,870,45237,0.47,0.38
+36081,36,81.0,5,102,2012,A,County,New York,"Queens County, New York",Private,Service-providing,,40942,423229,17614290713,800,41619,1.17,1.11
+36081,36,81.0,5,1021,2012,A,County,New York,"Queens County, New York",Private,"Trade, transportation, and utilities",,11591,142833,6300659773,848,44112,1.43,1.65
+36081,36,81.0,5,1022,2012,A,County,New York,"Queens County, New York",Private,Information,,501,8514,511124824,1155,60036,0.8,0.64
+36081,36,81.0,5,1023,2012,A,County,New York,"Queens County, New York",Private,Financial activities,,4718,30723,2108535002,1320,68630,1.04,0.96
+36081,36,81.0,5,1024,2012,A,County,New York,"Queens County, New York",Private,Professional and business services,,4841,44912,1870538608,801,41649,0.64,0.44
+36081,36,81.0,5,1025,2012,A,County,New York,"Queens County, New York",Private,Education and health services,,5439,123266,5006550380,781,40616,1.61,1.56
+36081,36,81.0,5,1026,2012,A,County,New York,"Queens County, New York",Private,Leisure and hospitality,,4572,45668,1056959489,445,23145,0.84,1.04
+36081,36,81.0,5,1027,2012,A,County,New York,"Queens County, New York",Private,Other services,,5039,23455,665951481,546,28392,1.3,1.33
+36081,36,81.0,5,1029,2012,A,County,New York,"Queens County, New York",Private,Unclassified,,4243,3858,93971156,468,24359,5.68,2.85
+36085,36,85.0,0,10,2012,A,County,New York,"Richmond County, New York",Total Covered,"Total, all industries",,8943,92259,3807890927,794,41274,1.0,1.0
+36085,36,85.0,1,10,2012,A,County,New York,"Richmond County, New York",Federal Government,"Total, all industries",,23,1077,67543282,1206,62700,0.55,0.56
+36085,36,85.0,2,10,2012,A,County,New York,"Richmond County, New York",State Government,"Total, all industries",,8,1927,135054818,1348,70076,0.61,0.99
+36085,36,85.0,3,10,2012,A,County,New York,"Richmond County, New York",Local Government,"Total, all industries",,7,2948,151320088,987,51327,0.31,0.42
+36085,36,85.0,5,10,2012,A,County,New York,"Richmond County, New York",Private,"Total, all industries",,8906,86307,3453972739,770,40020,1.11,1.08
+36085,36,85.0,5,101,2012,A,County,New York,"Richmond County, New York",Private,Goods-producing,,1165,7293,423041574,1116,58009,0.53,0.64
+36085,36,85.0,5,1011,2012,A,County,New York,"Richmond County, New York",Private,Natural resources and mining,N,2,0,0,0,0,0.0,0.0
+36085,36,85.0,5,1012,2012,A,County,New York,"Richmond County, New York",Private,Construction,,1031,6109,365062901,1149,59759,1.56,2.13
+36085,36,85.0,5,1013,2012,A,County,New York,"Richmond County, New York",Private,Manufacturing,N,133,0,0,0,0,0.0,0.0
+36085,36,85.0,5,102,2012,A,County,New York,"Richmond County, New York",Private,Service-providing,,7741,79014,3030931165,738,38359,1.24,1.2
+36085,36,85.0,5,1021,2012,A,County,New York,"Richmond County, New York",Private,"Trade, transportation, and utilities",,1792,21951,824626618,722,37567,1.24,1.35
+36085,36,85.0,5,1022,2012,A,County,New York,"Richmond County, New York",Private,Information,,73,1881,120924252,1237,64304,1.0,0.94
+36085,36,85.0,5,1023,2012,A,County,New York,"Richmond County, New York",Private,Financial activities,,707,3307,166510179,968,50351,0.63,0.47
+36085,36,85.0,5,1024,2012,A,County,New York,"Richmond County, New York",Private,Professional and business services,,1319,7743,305166470,758,39413,0.62,0.45
+36085,36,85.0,5,1025,2012,A,County,New York,"Richmond County, New York",Private,Education and health services,,1396,30588,1354845237,852,44294,2.25,2.63
+36085,36,85.0,5,1026,2012,A,County,New York,"Richmond County, New York",Private,Leisure and hospitality,,834,8504,141322634,320,16619,0.88,0.87
+36085,36,85.0,5,1027,2012,A,County,New York,"Richmond County, New York",Private,Other services,,957,4470,99846296,430,22338,1.4,1.24
+36085,36,85.0,5,1029,2012,A,County,New York,"Richmond County, New York",Private,Unclassified,,663,572,17689479,595,30944,4.75,3.35
+36005,36,5.0,0,10,2013,A,County,New York,"Bronx County, New York",Total Covered,"Total, all industries",,17142,243332,11394444273,901,46827,1.0,1.0
+36005,36,5.0,1,10,2013,A,County,New York,"Bronx County, New York",Federal Government,"Total, all industries",,67,6509,582147844,1720,89435,1.29,1.69
+36005,36,5.0,2,10,2013,A,County,New York,"Bronx County, New York",State Government,"Total, all industries",,12,1827,133166771,1402,72902,0.22,0.33
+36005,36,5.0,3,10,2013,A,County,New York,"Bronx County, New York",Local Government,"Total, all industries",,11,12471,751146081,1158,60233,0.5,0.71
+36005,36,5.0,5,10,2013,A,County,New York,"Bronx County, New York",Private,"Total, all industries",,17052,222526,9927983577,858,44615,1.08,1.04
+36005,36,5.0,5,101,2013,A,County,New York,"Bronx County, New York",Private,Goods-producing,,1410,16640,940221344,1087,56504,0.46,0.48
+36005,36,5.0,5,1011,2013,A,County,New York,"Bronx County, New York",Private,Natural resources and mining,,7,32,1547393,928,48230,0.01,0.01
+36005,36,5.0,5,1012,2013,A,County,New York,"Bronx County, New York",Private,Construction,,1060,9867,644779859,1257,65344,0.93,1.22
+36005,36,5.0,5,1013,2013,A,County,New York,"Bronx County, New York",Private,Manufacturing,,344,6740,293894092,838,43602,0.31,0.23
+36005,36,5.0,5,102,2013,A,County,New York,"Bronx County, New York",Private,Service-providing,,15642,205886,8987762233,840,43654,1.22,1.18
+36005,36,5.0,5,1021,2013,A,County,New York,"Bronx County, New York",Private,"Trade, transportation, and utilities",,4547,46919,1839405747,754,39204,1.01,1.01
+36005,36,5.0,5,1022,2013,A,County,New York,"Bronx County, New York",Private,Information,,79,2923,177573298,1168,60752,0.6,0.44
+36005,36,5.0,5,1023,2013,A,County,New York,"Bronx County, New York",Private,Financial activities,,2677,13621,567231589,801,41643,0.98,0.54
+36005,36,5.0,5,1024,2013,A,County,New York,"Bronx County, New York",Private,Professional and business services,,1220,12887,495541289,739,38453,0.38,0.24
+36005,36,5.0,5,1025,2013,A,County,New York,"Bronx County, New York",Private,Education and health services,,2327,101888,4993246044,942,49007,2.78,3.22
+36005,36,5.0,5,1026,2013,A,County,New York,"Bronx County, New York",Private,Leisure and hospitality,,1705,18154,652545632,691,35945,0.7,1.32
+36005,36,5.0,5,1027,2013,A,County,New York,"Bronx County, New York",Private,Other services,,1914,8574,244208514,548,28484,1.14,1.05
+36005,36,5.0,5,1029,2013,A,County,New York,"Bronx County, New York",Private,Unclassified,,1175,920,18010120,376,19574,3.06,1.24
+36047,36,47.0,0,10,2013,A,County,New York,"Kings County, New York",Total Covered,"Total, all industries",,54756,537270,21468521646,768,39959,1.0,1.0
+36047,36,47.0,1,10,2013,A,County,New York,"Kings County, New York",Federal Government,"Total, all industries",,73,6456,467556097,1393,72420,0.58,0.72
+36047,36,47.0,2,10,2013,A,County,New York,"Kings County, New York",State Government,"Total, all industries",,20,8759,424762320,933,48494,0.48,0.56
+36047,36,47.0,3,10,2013,A,County,New York,"Kings County, New York",Local Government,"Total, all industries",,14,18108,1043115600,1108,57604,0.33,0.52
+36047,36,47.0,5,10,2013,A,County,New York,"Kings County, New York",Private,"Total, all industries",,54650,503946,19533087629,745,38760,1.11,1.08
+36047,36,47.0,5,101,2013,A,County,New York,"Kings County, New York",Private,Goods-producing,,5335,45048,2129394075,909,47269,0.57,0.57
+36047,36,47.0,5,1011,2013,A,County,New York,"Kings County, New York",Private,Natural resources and mining,,12,57,1907167,640,33265,0.01,0.01
+36047,36,47.0,5,1012,2013,A,County,New York,"Kings County, New York",Private,Construction,,3564,24880,1369881074,1059,55060,1.07,1.38
+36047,36,47.0,5,1013,2013,A,County,New York,"Kings County, New York",Private,Manufacturing,,1759,20111,757605834,724,37671,0.42,0.32
+36047,36,47.0,5,102,2013,A,County,New York,"Kings County, New York",Private,Service-providing,,49315,458898,17403693554,729,37925,1.23,1.21
+36047,36,47.0,5,1021,2013,A,County,New York,"Kings County, New York",Private,"Trade, transportation, and utilities",,13483,114702,4068685113,682,35472,1.12,1.18
+36047,36,47.0,5,1022,2013,A,County,New York,"Kings County, New York",Private,Information,,753,7218,451414903,1203,62538,0.67,0.6
+36047,36,47.0,5,1023,2013,A,County,New York,"Kings County, New York",Private,Financial activities,,5595,29780,1631845313,1054,54797,0.97,0.82
+36047,36,47.0,5,1024,2013,A,County,New York,"Kings County, New York",Private,Professional and business services,,5873,44988,2001469561,856,44489,0.61,0.52
+36047,36,47.0,5,1025,2013,A,County,New York,"Kings County, New York",Private,Education and health services,,6861,190313,7512226455,759,39473,2.35,2.57
+36047,36,47.0,5,1026,2013,A,County,New York,"Kings County, New York",Private,Leisure and hospitality,,5093,41964,960459433,440,22888,0.74,1.03
+36047,36,47.0,5,1027,2013,A,County,New York,"Kings County, New York",Private,Other services,,6362,25166,640915504,490,25467,1.51,1.46
+36047,36,47.0,5,1029,2013,A,County,New York,"Kings County, New York",Private,Unclassified,,5295,4768,136677272,551,28669,7.19,5.01
+36061,36,61.0,0,10,2013,A,County,New York,"New York County, New York",Total Covered,"Total, all industries",,123972,2432252,247360010841,1956,101700,1.0,1.0
+36061,36,61.0,1,10,2013,A,County,New York,"New York County, New York",Federal Government,"Total, all industries",,148,21495,1815614674,1624,84468,0.43,0.24
+36061,36,61.0,2,10,2013,A,County,New York,"New York County, New York",State Government,"Total, all industries",,70,20003,1421222465,1366,71050,0.24,0.16
+36061,36,61.0,3,10,2013,A,County,New York,"New York County, New York",Local Government,"Total, all industries",,66,396498,22276201344,1080,56182,1.59,0.97
+36061,36,61.0,5,10,2013,A,County,New York,"New York County, New York",Private,"Total, all industries",,123689,1994256,221846972358,2139,111243,0.97,1.07
+36061,36,61.0,5,101,2013,A,County,New York,"New York County, New York",Private,Goods-producing,,4507,59443,4911940383,1589,82632,0.17,0.11
+36061,36,61.0,5,1011,2013,A,County,New York,"New York County, New York",Private,Natural resources and mining,,26,153,17088209,2142,111384,0.0,0.0
+36061,36,61.0,5,1012,2013,A,County,New York,"New York County, New York",Private,Construction,,2177,33459,3096956199,1780,92560,0.32,0.27
+36061,36,61.0,5,1013,2013,A,County,New York,"New York County, New York",Private,Manufacturing,,2304,25831,1797895975,1339,69602,0.12,0.07
+36061,36,61.0,5,102,2013,A,County,New York,"New York County, New York",Private,Service-providing,,119183,1934812,216935031975,2156,112122,1.14,1.31
+36061,36,61.0,5,1021,2013,A,County,New York,"New York County, New York",Private,"Trade, transportation, and utilities",,20939,258232,17572081502,1309,68048,0.56,0.44
+36061,36,61.0,5,1022,2013,A,County,New York,"New York County, New York",Private,Information,,4503,143326,18594213247,2495,129734,2.92,2.14
+36061,36,61.0,5,1023,2013,A,County,New York,"New York County, New York",Private,Financial activities,,19022,351018,85757801040,4698,244311,2.54,3.76
+36061,36,61.0,5,1024,2013,A,County,New York,"New York County, New York",Private,Professional and business services,,26287,502429,58402058102,2235,116239,1.5,1.32
+36061,36,61.0,5,1025,2013,A,County,New York,"New York County, New York",Private,Education and health services,,9527,316463,19875170218,1208,62804,0.86,0.59
+36061,36,61.0,5,1026,2013,A,County,New York,"New York County, New York",Private,Leisure and hospitality,,13390,263183,11137117324,814,42317,1.02,1.04
+36061,36,61.0,5,1027,2013,A,County,New York,"New York County, New York",Private,Other services,,19437,94982,5238974531,1061,55157,1.26,1.04
+36061,36,61.0,5,1029,2013,A,County,New York,"New York County, New York",Private,Unclassified,,6079,5180,357616011,1328,69041,1.73,1.14
+36081,36,81.0,0,10,2013,A,County,New York,"Queens County, New York",Total Covered,"Total, all industries",,48220,533087,24648958435,889,46238,1.0,1.0
+36081,36,81.0,1,10,2013,A,County,New York,"Queens County, New York",Federal Government,"Total, all industries",,78,14209,988360427,1338,69558,1.29,1.32
+36081,36,81.0,2,10,2013,A,County,New York,"Queens County, New York",State Government,"Total, all industries",,22,4576,304540798,1280,66553,0.25,0.35
+36081,36,81.0,3,10,2013,A,County,New York,"Queens County, New York",Local Government,"Total, all industries",,13,15292,949655384,1194,62102,0.28,0.42
+36081,36,81.0,5,10,2013,A,County,New York,"Queens County, New York",Private,"Total, all industries",,48107,499010,22406401826,863,44902,1.11,1.08
+36081,36,81.0,5,101,2013,A,County,New York,"Queens County, New York",Private,Goods-producing,,6089,63811,3991314427,1203,62549,0.81,0.93
+36081,36,81.0,5,1011,2013,A,County,New York,"Queens County, New York",Private,Natural resources and mining,,11,22,311920,269,13967,0.0,0.0
+36081,36,81.0,5,1012,2013,A,County,New York,"Queens County, New York",Private,Construction,,4722,41746,2975583759,1371,71279,1.8,2.6
+36081,36,81.0,5,1013,2013,A,County,New York,"Queens County, New York",Private,Manufacturing,,1357,22043,1015418748,886,46065,0.46,0.38
+36081,36,81.0,5,102,2013,A,County,New York,"Queens County, New York",Private,Service-providing,,42018,435199,18415087399,814,42314,1.17,1.12
+36081,36,81.0,5,1021,2013,A,County,New York,"Queens County, New York",Private,"Trade, transportation, and utilities",,11914,144106,6555138934,875,45488,1.41,1.66
+36081,36,81.0,5,1022,2013,A,County,New York,"Queens County, New York",Private,Information,,477,8326,510738188,1180,61344,0.77,0.59
+36081,36,81.0,5,1023,2013,A,County,New York,"Queens County, New York",Private,Financial activities,,4777,31250,2232077296,1374,71426,1.03,0.98
+36081,36,81.0,5,1024,2013,A,County,New York,"Queens County, New York",Private,Professional and business services,,5100,46473,1983632622,821,42684,0.63,0.45
+36081,36,81.0,5,1025,2013,A,County,New York,"Queens County, New York",Private,Education and health services,,5563,129364,5231747130,778,40442,1.61,1.56
+36081,36,81.0,5,1026,2013,A,County,New York,"Queens County, New York",Private,Leisure and hospitality,,4759,48332,1132462505,451,23431,0.86,1.06
+36081,36,81.0,5,1027,2013,A,County,New York,"Queens County, New York",Private,Other services,,5210,23779,679106966,549,28559,1.44,1.35
+36081,36,81.0,5,1029,2013,A,County,New York,"Queens County, New York",Private,Unclassified,,4220,3569,90183758,486,25269,5.43,2.88
+36085,36,85.0,0,10,2013,A,County,New York,"Richmond County, New York",Total Covered,"Total, all industries",,9154,95756,4013836912,806,41917,1.0,1.0
+36085,36,85.0,1,10,2013,A,County,New York,"Richmond County, New York",Federal Government,"Total, all industries",,23,1002,63563102,1220,63431,0.51,0.52
+36085,36,85.0,2,10,2013,A,County,New York,"Richmond County, New York",State Government,"Total, all industries",,10,1940,137629228,1364,70928,0.6,0.96
+36085,36,85.0,3,10,2013,A,County,New York,"Richmond County, New York",Local Government,"Total, all industries",,7,2958,153827788,1000,52004,0.3,0.41
+36085,36,85.0,5,10,2013,A,County,New York,"Richmond County, New York",Private,"Total, all industries",,9114,89855,3658816794,783,40719,1.11,1.08
+36085,36,85.0,5,101,2013,A,County,New York,"Richmond County, New York",Private,Goods-producing,,1192,8616,533078281,1190,61868,0.61,0.77
+36085,36,85.0,5,1011,2013,A,County,New York,"Richmond County, New York",Private,Natural resources and mining,N,2,0,0,0,0,0.0,0.0
+36085,36,85.0,5,1012,2013,A,County,New York,"Richmond County, New York",Private,Construction,,1065,7545,482700873,1230,63976,1.81,2.59
+36085,36,85.0,5,1013,2013,A,County,New York,"Richmond County, New York",Private,Manufacturing,N,126,0,0,0,0,0.0,0.0
+36085,36,85.0,5,102,2013,A,County,New York,"Richmond County, New York",Private,Service-providing,,7922,81239,3125738513,740,38476,1.22,1.17
+36085,36,85.0,5,1021,2013,A,County,New York,"Richmond County, New York",Private,"Trade, transportation, and utilities",,1822,22802,859485342,725,37693,1.25,1.34
+36085,36,85.0,5,1022,2013,A,County,New York,"Richmond County, New York",Private,Information,,67,1833,116943257,1227,63805,0.95,0.83
+36085,36,85.0,5,1023,2013,A,County,New York,"Richmond County, New York",Private,Financial activities,,710,3385,173105802,983,51142,0.62,0.47
+36085,36,85.0,5,1024,2013,A,County,New York,"Richmond County, New York",Private,Professional and business services,,1357,8110,326979643,775,40316,0.61,0.46
+36085,36,85.0,5,1025,2013,A,County,New York,"Richmond County, New York",Private,Education and health services,,1420,30981,1373273547,852,44326,2.15,2.51
+36085,36,85.0,5,1026,2013,A,County,New York,"Richmond County, New York",Private,Leisure and hospitality,,851,8807,151302731,330,17180,0.87,0.87
+36085,36,85.0,5,1027,2013,A,County,New York,"Richmond County, New York",Private,Other services,,962,4711,106801608,436,22673,1.59,1.3
+36085,36,85.0,5,1029,2013,A,County,New York,"Richmond County, New York",Private,Unclassified,,736,610,17846583,563,29261,5.16,3.5
+36005,36,5.0,0,10,2014,A,County,New York,"Bronx County, New York",Total Covered,"Total, all industries",,17498,251499,11832214107,905,47047,1.0,1.0
+36005,36,5.0,1,10,2014,A,County,New York,"Bronx County, New York",Federal Government,"Total, all industries",,69,4244,345924597,1568,81514,0.84,0.99
+36005,36,5.0,2,10,2014,A,County,New York,"Bronx County, New York",State Government,"Total, all industries",,43,3498,269089163,1479,76925,0.42,0.65
+36005,36,5.0,3,10,2014,A,County,New York,"Bronx County, New York",Local Government,"Total, all industries",,11,12673,785419152,1192,61975,0.5,0.73
+36005,36,5.0,5,10,2014,A,County,New York,"Bronx County, New York",Private,"Total, all industries",,17375,231083,10431781195,868,45143,1.09,1.04
+36005,36,5.0,5,101,2014,A,County,New York,"Bronx County, New York",Private,Goods-producing,,1422,17048,985841175,1112,57828,0.46,0.48
+36005,36,5.0,5,1011,2014,A,County,New York,"Bronx County, New York",Private,Natural resources and mining,,7,29,1671962,1118,58155,0.01,0.01
+36005,36,5.0,5,1012,2014,A,County,New York,"Bronx County, New York",Private,Construction,,1075,10433,692428905,1276,66372,0.93,1.22
+36005,36,5.0,5,1013,2014,A,County,New York,"Bronx County, New York",Private,Manufacturing,,340,6587,291740308,852,44294,0.29,0.23
+36005,36,5.0,5,102,2014,A,County,New York,"Bronx County, New York",Private,Service-providing,,15954,214036,9445940020,849,44133,1.22,1.19
+36005,36,5.0,5,1021,2014,A,County,New York,"Bronx County, New York",Private,"Trade, transportation, and utilities",,4574,49133,1940440696,759,39494,1.02,1.03
+36005,36,5.0,5,1022,2014,A,County,New York,"Bronx County, New York",Private,Information,,83,2713,180425176,1279,66504,0.54,0.43
+36005,36,5.0,5,1023,2014,A,County,New York,"Bronx County, New York",Private,Financial activities,,2658,13672,590625580,831,43199,0.97,0.54
+36005,36,5.0,5,1024,2014,A,County,New York,"Bronx County, New York",Private,Professional and business services,,1246,13146,508994377,745,38719,0.37,0.24
+36005,36,5.0,5,1025,2014,A,County,New York,"Bronx County, New York",Private,Education and health services,,2400,106339,5272441134,953,49582,2.81,3.31
+36005,36,5.0,5,1026,2014,A,County,New York,"Bronx County, New York",Private,Leisure and hospitality,,1752,19197,680195440,681,35433,0.71,1.31
+36005,36,5.0,5,1027,2014,A,County,New York,"Bronx County, New York",Private,Other services,,1922,8650,243543726,541,28156,1.11,1.0
+36005,36,5.0,5,1029,2014,A,County,New York,"Bronx County, New York",Private,Unclassified,,1319,1187,29273891,474,24662,3.0,1.64
+36047,36,47.0,0,10,2014,A,County,New York,"Kings County, New York",Total Covered,"Total, all industries",,56756,568298,23334500437,790,41060,1.0,1.0
+36047,36,47.0,1,10,2014,A,County,New York,"Kings County, New York",Federal Government,"Total, all industries",,75,7415,554714558,1439,74815,0.65,0.81
+36047,36,47.0,2,10,2014,A,County,New York,"Kings County, New York",State Government,"Total, all industries",,58,9915,616070266,1195,62137,0.52,0.75
+36047,36,47.0,3,10,2014,A,County,New York,"Kings County, New York",Local Government,"Total, all industries",,14,18511,1096342632,1139,59226,0.32,0.52
+36047,36,47.0,5,10,2014,A,County,New York,"Kings County, New York",Private,"Total, all industries",,56609,532457,21067372981,761,39566,1.11,1.07
+36047,36,47.0,5,101,2014,A,County,New York,"Kings County, New York",Private,Goods-producing,,5345,47432,2315464941,939,48816,0.56,0.57
+36047,36,47.0,5,1011,2014,A,County,New York,"Kings County, New York",Private,Natural resources and mining,,12,58,1607448,532,27675,0.01,0.0
+36047,36,47.0,5,1012,2014,A,County,New York,"Kings County, New York",Private,Construction,,3590,26653,1506225010,1087,56512,1.05,1.35
+36047,36,47.0,5,1013,2014,A,County,New York,"Kings County, New York",Private,Manufacturing,,1744,20721,807632483,750,38976,0.41,0.32
+36047,36,47.0,5,102,2014,A,County,New York,"Kings County, New York",Private,Service-providing,,51263,485025,18751908040,743,38662,1.22,1.2
+36047,36,47.0,5,1021,2014,A,County,New York,"Kings County, New York",Private,"Trade, transportation, and utilities",,13611,119353,4339340464,699,36357,1.1,1.16
+36047,36,47.0,5,1022,2014,A,County,New York,"Kings County, New York",Private,Information,,826,8035,635251988,1520,79061,0.71,0.77
+36047,36,47.0,5,1023,2014,A,County,New York,"Kings County, New York",Private,Financial activities,,5624,31810,1847954931,1117,58094,1.0,0.85
+36047,36,47.0,5,1024,2014,A,County,New York,"Kings County, New York",Private,Professional and business services,,6131,47786,2119697191,853,44359,0.6,0.5
+36047,36,47.0,5,1025,2014,A,County,New York,"Kings County, New York",Private,Education and health services,,7004,199000,7849526332,759,39445,2.33,2.5
+36047,36,47.0,5,1026,2014,A,County,New York,"Kings County, New York",Private,Leisure and hospitality,,5414,47327,1121535363,456,23698,0.78,1.1
+36047,36,47.0,5,1027,2014,A,County,New York,"Kings County, New York",Private,Other services,,6539,25627,667685391,501,26054,1.45,1.4
+36047,36,47.0,5,1029,2014,A,County,New York,"Kings County, New York",Private,Unclassified,,6114,6088,170916380,540,28075,6.81,4.87
+36061,36,61.0,0,10,2014,A,County,New York,"New York County, New York",Total Covered,"Total, all industries",,126584,2495683,270420242141,2084,108355,1.0,1.0
+36061,36,61.0,1,10,2014,A,County,New York,"New York County, New York",Federal Government,"Total, all industries",,152,22227,1997726462,1728,89878,0.45,0.25
+36061,36,61.0,2,10,2014,A,County,New York,"New York County, New York",State Government,"Total, all industries",,135,14184,1121598633,1521,79073,0.17,0.12
+36061,36,61.0,3,10,2014,A,County,New York,"New York County, New York",Local Government,"Total, all industries",,67,398027,23251682980,1123,58417,1.58,0.95
+36061,36,61.0,5,10,2014,A,County,New York,"New York County, New York",Private,"Total, all industries",,126231,2061244,244049234066,2277,118399,0.98,1.07
+36061,36,61.0,5,101,2014,A,County,New York,"New York County, New York",Private,Goods-producing,,4459,60034,5211324093,1669,86806,0.16,0.11
+36061,36,61.0,5,1011,2014,A,County,New York,"New York County, New York",Private,Natural resources and mining,,25,152,21868415,2773,144187,0.0,0.0
+36061,36,61.0,5,1012,2014,A,County,New York,"New York County, New York",Private,Construction,,2198,34486,3294666467,1837,95537,0.31,0.25
+36061,36,61.0,5,1013,2014,A,County,New York,"New York County, New York",Private,Manufacturing,,2235,25397,1894789211,1435,74607,0.11,0.06
+36061,36,61.0,5,102,2014,A,County,New York,"New York County, New York",Private,Service-providing,,121772,2001210,238837909973,2295,119347,1.15,1.32
+36061,36,61.0,5,1021,2014,A,County,New York,"New York County, New York",Private,"Trade, transportation, and utilities",,20672,262832,18345196514,1342,69798,0.55,0.42
+36061,36,61.0,5,1022,2014,A,County,New York,"New York County, New York",Private,Information,,4760,150411,20833597715,2664,138512,3.01,2.18
+36061,36,61.0,5,1023,2014,A,County,New York,"New York County, New York",Private,Financial activities,,19190,359488,97454311718,5213,271092,2.56,3.86
+36061,36,61.0,5,1024,2014,A,County,New York,"New York County, New York",Private,Professional and business services,,26780,522132,63001501652,2320,120662,1.5,1.29
+36061,36,61.0,5,1025,2014,A,County,New York,"New York County, New York",Private,Education and health services,,9693,323860,20910470610,1242,64566,0.86,0.57
+36061,36,61.0,5,1026,2014,A,County,New York,"New York County, New York",Private,Leisure and hospitality,,13585,277267,12271173178,851,44258,1.04,1.04
+36061,36,61.0,5,1027,2014,A,County,New York,"New York County, New York",Private,Other services,,19990,98572,5570033122,1087,56508,1.27,1.01
+36061,36,61.0,5,1029,2014,A,County,New York,"New York County, New York",Private,Unclassified,,7103,6649,451625464,1306,67927,1.69,1.11
+36081,36,81.0,0,10,2014,A,County,New York,"Queens County, New York",Total Covered,"Total, all industries",,49329,552912,26261927479,913,47498,1.0,1.0
+36081,36,81.0,1,10,2014,A,County,New York,"Queens County, New York",Federal Government,"Total, all industries",,80,13892,1005757919,1392,72398,1.26,1.3
+36081,36,81.0,2,10,2014,A,County,New York,"Queens County, New York",State Government,"Total, all industries",,94,6051,430841449,1369,71197,0.33,0.47
+36081,36,81.0,3,10,2014,A,County,New York,"Queens County, New York",Local Government,"Total, all industries",,13,15666,995862057,1223,63570,0.28,0.42
+36081,36,81.0,5,10,2014,A,County,New York,"Queens County, New York",Private,"Total, all industries",,49142,517303,23829466054,886,46065,1.11,1.07
+36081,36,81.0,5,101,2014,A,County,New York,"Queens County, New York",Private,Goods-producing,,6151,66517,4241434664,1226,63764,0.81,0.92
+36081,36,81.0,5,1011,2014,A,County,New York,"Queens County, New York",Private,Natural resources and mining,,10,36,990181,523,27190,0.0,0.0
+36081,36,81.0,5,1012,2014,A,County,New York,"Queens County, New York",Private,Construction,,4812,44698,3203017648,1378,71660,1.81,2.55
+36081,36,81.0,5,1013,2014,A,County,New York,"Queens County, New York",Private,Manufacturing,,1329,21783,1037426835,916,47625,0.44,0.36
+36081,36,81.0,5,102,2014,A,County,New York,"Queens County, New York",Private,Service-providing,,42992,450785,19588031390,836,43453,1.17,1.11
+36081,36,81.0,5,1021,2014,A,County,New York,"Queens County, New York",Private,"Trade, transportation, and utilities",,11911,147165,6924874490,905,47055,1.39,1.65
+36081,36,81.0,5,1022,2014,A,County,New York,"Queens County, New York",Private,Information,,465,7976,509660936,1229,63903,0.72,0.55
+36081,36,81.0,5,1023,2014,A,County,New York,"Queens County, New York",Private,Financial activities,,4767,31997,2334634821,1403,72964,1.03,0.95
+36081,36,81.0,5,1024,2014,A,County,New York,"Queens County, New York",Private,Professional and business services,,5220,46882,2024496267,830,43183,0.61,0.43
+36081,36,81.0,5,1025,2014,A,County,New York,"Queens County, New York",Private,Education and health services,,5610,136571,5692659152,802,41683,1.64,1.61
+36081,36,81.0,5,1026,2014,A,County,New York,"Queens County, New York",Private,Leisure and hospitality,,4817,50567,1271431454,484,25144,0.85,1.11
+36081,36,81.0,5,1027,2014,A,County,New York,"Queens County, New York",Private,Other services,,5298,24782,709662188,551,28636,1.45,1.32
+36081,36,81.0,5,1029,2014,A,County,New York,"Queens County, New York",Private,Unclassified,,4905,4845,120612082,479,24895,5.57,3.05
+36085,36,85.0,0,10,2014,A,County,New York,"Richmond County, New York",Total Covered,"Total, all industries",,9428,98661,4228082005,824,42855,1.0,1.0
+36085,36,85.0,1,10,2014,A,County,New York,"Richmond County, New York",Federal Government,"Total, all industries",,23,1003,64641883,1240,64459,0.51,0.52
+36085,36,85.0,2,10,2014,A,County,New York,"Richmond County, New York",State Government,"Total, all industries",,49,2270,155516844,1317,68497,0.69,1.05
+36085,36,85.0,3,10,2014,A,County,New York,"Richmond County, New York",Local Government,"Total, all industries",,7,3003,159242608,1020,53026,0.3,0.42
+36085,36,85.0,5,10,2014,A,County,New York,"Richmond County, New York",Private,"Total, all industries",,9349,92385,3848680670,801,41659,1.11,1.08
+36085,36,85.0,5,101,2014,A,County,New York,"Richmond County, New York",Private,Goods-producing,,1228,9242,567878411,1182,61448,0.63,0.77
+36085,36,85.0,5,1011,2014,A,County,New York,"Richmond County, New York",Private,Natural resources and mining,N,3,0,0,0,0,0.0,0.0
+36085,36,85.0,5,1012,2014,A,County,New York,"Richmond County, New York",Private,Construction,,1097,8034,510810567,1223,63580,1.82,2.52
+36085,36,85.0,5,1013,2014,A,County,New York,"Richmond County, New York",Private,Manufacturing,N,129,0,0,0,0,0.0,0.0
+36085,36,85.0,5,102,2014,A,County,New York,"Richmond County, New York",Private,Service-providing,,8121,83143,3280802259,759,39460,1.21,1.16
+36085,36,85.0,5,1021,2014,A,County,New York,"Richmond County, New York",Private,"Trade, transportation, and utilities",,1858,23446,909264928,746,38782,1.24,1.34
+36085,36,85.0,5,1022,2014,A,County,New York,"Richmond County, New York",Private,Information,,68,1786,116446076,1254,65218,0.91,0.78
+36085,36,85.0,5,1023,2014,A,County,New York,"Richmond County, New York",Private,Financial activities,,712,3366,170204017,972,50567,0.61,0.43
+36085,36,85.0,5,1024,2014,A,County,New York,"Richmond County, New York",Private,Professional and business services,,1363,8191,347937631,817,42478,0.59,0.45
+36085,36,85.0,5,1025,2014,A,County,New York,"Richmond County, New York",Private,Education and health services,,1454,31748,1447065938,877,45580,2.14,2.54
+36085,36,85.0,5,1026,2014,A,County,New York,"Richmond County, New York",Private,Leisure and hospitality,,889,9151,160200212,337,17507,0.87,0.87
+36085,36,85.0,5,1027,2014,A,County,New York,"Richmond County, New York",Private,Other services,,955,4737,108998533,442,23008,1.55,1.26
+36085,36,85.0,5,1029,2014,A,County,New York,"Richmond County, New York",Private,Unclassified,,823,719,20684924,553,28766,4.63,3.25
+36005,36,5.0,0,10,2015,A,County,New York,"Bronx County, New York",Total Covered,"Total, all industries",,18366,298911,14627445887,941,48936,1.0,1.0
+36005,36,5.0,1,10,2015,A,County,New York,"Bronx County, New York",Federal Government,"Total, all industries",,68,3908,311787743,1534,79790,0.66,0.73
+36005,36,5.0,2,10,2015,A,County,New York,"Bronx County, New York",State Government,"Total, all industries",,44,3539,271680291,1476,76760,0.36,0.54
+36005,36,5.0,3,10,2015,A,County,New York,"Bronx County, New York",Local Government,"Total, all industries",,488,53459,3130672972,1126,58563,1.8,2.4
+36005,36,5.0,5,10,2015,A,County,New York,"Bronx County, New York",Private,"Total, all industries",,17767,238005,10913304881,882,45853,0.94,0.88
+36005,36,5.0,5,101,2015,A,County,New York,"Bronx County, New York",Private,Goods-producing,,1452,17092,1060817995,1194,62065,0.39,0.42
+36005,36,5.0,5,1011,2015,A,County,New York,"Bronx County, New York",Private,Natural resources and mining,,8,29,1425104,950,49426,0.01,0.01
+36005,36,5.0,5,1012,2015,A,County,New York,"Bronx County, New York",Private,Construction,,1097,10692,759103039,1365,70997,0.78,1.05
+36005,36,5.0,5,1013,2015,A,County,New York,"Bronx County, New York",Private,Manufacturing,,347,6371,300289852,906,47133,0.24,0.19
+36005,36,5.0,5,102,2015,A,County,New York,"Bronx County, New York",Private,Service-providing,,16314,220913,9852486886,858,44599,1.06,1.0
+36005,36,5.0,5,1021,2015,A,County,New York,"Bronx County, New York",Private,"Trade, transportation, and utilities",,4613,51263,2076656394,779,40510,0.9,0.89
+36005,36,5.0,5,1022,2015,A,County,New York,"Bronx County, New York",Private,Information,,79,2660,181519136,1312,68242,0.45,0.35
+36005,36,5.0,5,1023,2015,A,County,New York,"Bronx County, New York",Private,Financial activities,,2623,13729,625898057,877,45589,0.82,0.46
+36005,36,5.0,5,1024,2015,A,County,New York,"Bronx County, New York",Private,Professional and business services,,1371,13657,554611798,781,40611,0.33,0.21
+36005,36,5.0,5,1025,2015,A,County,New York,"Bronx County, New York",Private,Education and health services,,2529,108417,5418624277,961,49979,2.4,2.74
+36005,36,5.0,5,1026,2015,A,County,New York,"Bronx County, New York",Private,Leisure and hospitality,,1798,20844,705375628,651,33841,0.64,1.08
+36005,36,5.0,5,1027,2015,A,County,New York,"Bronx County, New York",Private,Other services,,1982,9118,261734041,552,28706,0.99,0.87
+36005,36,5.0,5,1029,2015,A,County,New York,"Bronx County, New York",Private,Unclassified,,1319,1226,28067555,440,22900,2.38,1.17
+36047,36,47.0,0,10,2015,A,County,New York,"Kings County, New York",Total Covered,"Total, all industries",,59146,661364,29132724950,847,44049,1.0,1.0
+36047,36,47.0,1,10,2015,A,County,New York,"Kings County, New York",Federal Government,"Total, all industries",,75,7540,596229091,1521,79081,0.58,0.7
+36047,36,47.0,2,10,2015,A,County,New York,"Kings County, New York",State Government,"Total, all industries",,61,9669,613206828,1220,63423,0.45,0.61
+36047,36,47.0,3,10,2015,A,County,New York,"Kings County, New York",Local Government,"Total, all industries",,666,81805,4768293008,1121,58288,1.24,1.83
+36047,36,47.0,5,10,2015,A,County,New York,"Kings County, New York",Private,"Total, all industries",,58345,562350,23154996023,792,41175,1.0,0.94
+36047,36,47.0,5,101,2015,A,County,New York,"Kings County, New York",Private,Goods-producing,,5515,50221,2574294998,986,51260,0.51,0.51
+36047,36,47.0,5,1011,2015,A,County,New York,"Kings County, New York",Private,Natural resources and mining,,14,84,2601250,597,31029,0.01,0.01
+36047,36,47.0,5,1012,2015,A,County,New York,"Kings County, New York",Private,Construction,,3714,28963,1709591381,1135,59027,0.95,1.18
+36047,36,47.0,5,1013,2015,A,County,New York,"Kings County, New York",Private,Manufacturing,,1787,21174,862102367,783,40715,0.36,0.28
+36047,36,47.0,5,102,2015,A,County,New York,"Kings County, New York",Private,Service-providing,,52830,512130,20580701025,773,40187,1.11,1.05
+36047,36,47.0,5,1021,2015,A,County,New York,"Kings County, New York",Private,"Trade, transportation, and utilities",,13835,123161,4625801593,722,37559,0.97,0.99
+36047,36,47.0,5,1022,2015,A,County,New York,"Kings County, New York",Private,Information,,919,9925,800108080,1550,80612,0.76,0.77
+36047,36,47.0,5,1023,2015,A,County,New York,"Kings County, New York",Private,Financial activities,,5779,33859,2210605703,1256,65289,0.91,0.81
+36047,36,47.0,5,1024,2015,A,County,New York,"Kings County, New York",Private,Professional and business services,,6664,52369,2391531089,878,45667,0.56,0.45
+36047,36,47.0,5,1025,2015,A,County,New York,"Kings County, New York",Private,Education and health services,,7236,207019,8319338574,773,40186,2.07,2.11
+36047,36,47.0,5,1026,2015,A,County,New York,"Kings County, New York",Private,Leisure and hospitality,,5688,51710,1279909251,476,24752,0.72,0.99
+36047,36,47.0,5,1027,2015,A,County,New York,"Kings County, New York",Private,Other services,,6849,27675,762677977,530,27558,1.35,1.28
+36047,36,47.0,5,1029,2015,A,County,New York,"Kings County, New York",Private,Unclassified,,5861,6412,190728758,572,29748,5.63,3.99
+36061,36,61.0,0,10,2015,A,County,New York,"New York County, New York",Total Covered,"Total, all industries",,127868,2374864,269980313467,2186,113682,1.0,1.0
+36061,36,61.0,1,10,2015,A,County,New York,"New York County, New York",Federal Government,"Total, all industries",,149,22497,2097094548,1793,93219,0.48,0.27
+36061,36,61.0,2,10,2015,A,County,New York,"New York County, New York",State Government,"Total, all industries",,139,14259,1186597970,1600,83218,0.18,0.13
+36061,36,61.0,3,10,2015,A,County,New York,"New York County, New York",Local Government,"Total, all industries",,548,225573,14012204702,1195,62118,0.96,0.58
+36061,36,61.0,5,10,2015,A,County,New York,"New York County, New York",Private,"Total, all industries",,127033,2112535,252684416247,2300,119612,1.05,1.1
+36061,36,61.0,5,101,2015,A,County,New York,"New York County, New York",Private,Goods-producing,,4470,64446,5738839481,1712,89049,0.18,0.12
+36061,36,61.0,5,1011,2015,A,County,New York,"New York County, New York",Private,Natural resources and mining,,29,159,18696619,2268,117960,0.0,0.0
+36061,36,61.0,5,1012,2015,A,County,New York,"New York County, New York",Private,Construction,,2236,37192,3642712244,1884,97945,0.34,0.27
+36061,36,61.0,5,1013,2015,A,County,New York,"New York County, New York",Private,Manufacturing,,2205,27096,2077430618,1474,76670,0.13,0.07
+36061,36,61.0,5,102,2015,A,County,New York,"New York County, New York",Private,Service-providing,,122563,2048090,246945576766,2319,120574,1.23,1.36
+36061,36,61.0,5,1021,2015,A,County,New York,"New York County, New York",Private,"Trade, transportation, and utilities",,20362,260467,18456011141,1363,70858,0.57,0.43
+36061,36,61.0,5,1022,2015,A,County,New York,"New York County, New York",Private,Information,,4939,152551,21817032002,2750,143014,3.25,2.28
+36061,36,61.0,5,1023,2015,A,County,New York,"New York County, New York",Private,Financial activities,,19213,367773,97097860999,5077,264016,2.76,3.86
+36061,36,61.0,5,1024,2015,A,County,New York,"New York County, New York",Private,Professional and business services,,27652,543076,68021219876,2409,125252,1.63,1.37
+36061,36,61.0,5,1025,2015,A,County,New York,"New York County, New York",Private,Education and health services,,9832,330842,22058161195,1282,66673,0.92,0.6
+36061,36,61.0,5,1026,2015,A,County,New York,"New York County, New York",Private,Leisure and hospitality,,13941,286726,13103351627,879,45700,1.12,1.09
+36061,36,61.0,5,1027,2015,A,County,New York,"New York County, New York",Private,Other services,,20407,100608,5958016977,1139,59220,1.37,1.08
+36061,36,61.0,5,1029,2015,A,County,New York,"New York County, New York",Private,Unclassified,,6218,6048,433922949,1380,71748,1.48,0.98
+36081,36,81.0,0,10,2015,A,County,New York,"Queens County, New York",Total Covered,"Total, all industries",,50707,633251,31235227545,949,49325,1.0,1.0
+36081,36,81.0,1,10,2015,A,County,New York,"Queens County, New York",Federal Government,"Total, all industries",,79,14027,1046806190,1435,74626,1.12,1.15
+36081,36,81.0,2,10,2015,A,County,New York,"Queens County, New York",State Government,"Total, all industries",,97,5956,429245265,1386,72075,0.29,0.4
+36081,36,81.0,3,10,2015,A,County,New York,"Queens County, New York",Local Government,"Total, all industries",,446,75824,4524370098,1147,59669,1.2,1.62
+36081,36,81.0,5,10,2015,A,County,New York,"Queens County, New York",Private,"Total, all industries",,50086,537444,25234805992,903,46953,1.0,0.95
+36081,36,81.0,5,101,2015,A,County,New York,"Queens County, New York",Private,Goods-producing,,6378,69665,4567709201,1261,65567,0.74,0.85
+36081,36,81.0,5,1011,2015,A,County,New York,"Queens County, New York",Private,Natural resources and mining,,10,42,1197560,549,28570,0.0,0.0
+36081,36,81.0,5,1012,2015,A,County,New York,"Queens County, New York",Private,Construction,,5032,48180,3500729826,1397,72659,1.65,2.26
+36081,36,81.0,5,1013,2015,A,County,New York,"Queens County, New York",Private,Manufacturing,,1336,21442,1065781815,956,49705,0.38,0.32
+36081,36,81.0,5,102,2015,A,County,New York,"Queens County, New York",Private,Service-providing,,43708,467779,20667096791,850,44181,1.06,0.98
+36081,36,81.0,5,1021,2015,A,County,New York,"Queens County, New York",Private,"Trade, transportation, and utilities",,12083,152242,7329205709,926,48142,1.26,1.47
+36081,36,81.0,5,1022,2015,A,County,New York,"Queens County, New York",Private,Information,,478,7825,516279936,1269,65978,0.63,0.47
+36081,36,81.0,5,1023,2015,A,County,New York,"Queens County, New York",Private,Financial activities,,4814,31631,2333984752,1419,73788,0.89,0.8
+36081,36,81.0,5,1024,2015,A,County,New York,"Queens County, New York",Private,Professional and business services,,5593,49658,2244079979,869,45191,0.56,0.39
+36081,36,81.0,5,1025,2015,A,County,New York,"Queens County, New York",Private,Education and health services,,5794,142735,5963007566,803,41777,1.49,1.41
+36081,36,81.0,5,1026,2015,A,County,New York,"Queens County, New York",Private,Leisure and hospitality,,5061,53472,1413787142,508,26440,0.78,1.02
+36081,36,81.0,5,1027,2015,A,County,New York,"Queens County, New York",Private,Other services,,5440,25636,742034884,557,28945,1.31,1.16
+36081,36,81.0,5,1029,2015,A,County,New York,"Queens County, New York",Private,Unclassified,,4447,4580,124716823,524,27230,4.2,2.43
+36085,36,85.0,0,10,2015,A,County,New York,"Richmond County, New York",Total Covered,"Total, all industries",,9585,113350,5185814842,880,45751,1.0,1.0
+36085,36,85.0,1,10,2015,A,County,New York,"Richmond County, New York",Federal Government,"Total, all industries",,24,981,66954710,1312,68234,0.44,0.44
+36085,36,85.0,2,10,2015,A,County,New York,"Richmond County, New York",State Government,"Total, all industries",,49,2302,160068874,1337,69540,0.62,0.89
+36085,36,85.0,3,10,2015,A,County,New York,"Richmond County, New York",Local Government,"Total, all industries",,104,15201,861604010,1090,56681,1.35,1.86
+36085,36,85.0,5,10,2015,A,County,New York,"Richmond County, New York",Private,"Total, all industries",,9407,94866,4097187248,831,43189,0.99,0.93
+36085,36,85.0,5,101,2015,A,County,New York,"Richmond County, New York",Private,Goods-producing,,1271,10402,654416896,1210,62910,0.62,0.73
+36085,36,85.0,5,1011,2015,A,County,New York,"Richmond County, New York",Private,Natural resources and mining,,3,12,693238,1088,56591,0.01,0.01
+36085,36,85.0,5,1012,2015,A,County,New York,"Richmond County, New York",Private,Construction,,1143,9179,597149315,1251,65056,1.76,2.32
+36085,36,85.0,5,1013,2015,A,County,New York,"Richmond County, New York",Private,Manufacturing,,126,1211,56574343,898,46711,0.12,0.1
+36085,36,85.0,5,102,2015,A,County,New York,"Richmond County, New York",Private,Service-providing,,8136,84463,3442770352,784,40761,1.07,0.98
+36085,36,85.0,5,1021,2015,A,County,New York,"Richmond County, New York",Private,"Trade, transportation, and utilities",,1868,23557,953219871,778,40465,1.09,1.15
+36085,36,85.0,5,1022,2015,A,County,New York,"Richmond County, New York",Private,Information,,61,1667,115110012,1328,69042,0.74,0.63
+36085,36,85.0,5,1023,2015,A,County,New York,"Richmond County, New York",Private,Financial activities,,721,3441,178124611,995,51764,0.54,0.37
+36085,36,85.0,5,1024,2015,A,County,New York,"Richmond County, New York",Private,Professional and business services,,1408,8291,360528361,836,43484,0.52,0.38
+36085,36,85.0,5,1025,2015,A,County,New York,"Richmond County, New York",Private,Education and health services,,1474,32670,1525803661,898,46704,1.91,2.18
+36085,36,85.0,5,1026,2015,A,County,New York,"Richmond County, New York",Private,Leisure and hospitality,,895,9344,171512083,353,18355,0.76,0.74
+36085,36,85.0,5,1027,2015,A,County,New York,"Richmond County, New York",Private,Other services,,962,4845,116894427,464,24128,1.38,1.1
+36085,36,85.0,5,1029,2015,A,County,New York,"Richmond County, New York",Private,Unclassified,,749,648,21577326,640,33303,3.32,2.53
+36005,36,5.0,0,10,2016,A,County,New York,"Bronx County, New York",Total Covered,"Total, all industries",,18426,299438,15047737050,966,50253,1.0,1.0
+36005,36,5.0,1,10,2016,A,County,New York,"Bronx County, New York",Federal Government,"Total, all industries",,67,4005,307748859,1478,76851,0.68,0.71
+36005,36,5.0,2,10,2016,A,County,New York,"Bronx County, New York",State Government,"Total, all industries",,47,3632,278340129,1474,76637,0.38,0.54
+36005,36,5.0,3,10,2016,A,County,New York,"Bronx County, New York",Local Government,"Total, all industries",,488,53591,3206083287,1150,59825,1.81,2.39
+36005,36,5.0,5,10,2016,A,County,New York,"Bronx County, New York",Private,"Total, all industries",,17824,238210,11255564775,909,47251,0.94,0.88
+36005,36,5.0,5,101,2016,A,County,New York,"Bronx County, New York",Private,Goods-producing,,1446,17303,1113562194,1238,64356,0.39,0.43
+36005,36,5.0,5,1011,2016,A,County,New York,"Bronx County, New York",Private,Natural resources and mining,,6,28,1398256,960,49938,0.01,0.01
+36005,36,5.0,5,1012,2016,A,County,New York,"Bronx County, New York",Private,Construction,,1110,11189,810328318,1393,72422,0.79,1.04
+36005,36,5.0,5,1013,2016,A,County,New York,"Bronx County, New York",Private,Manufacturing,,330,6086,301835620,954,49593,0.23,0.19
+36005,36,5.0,5,102,2016,A,County,New York,"Bronx County, New York",Private,Service-providing,,16379,220907,10142002581,883,45911,1.05,0.99
+36005,36,5.0,5,1021,2016,A,County,New York,"Bronx County, New York",Private,"Trade, transportation, and utilities",,4663,52195,2154693382,794,41282,0.92,0.9
+36005,36,5.0,5,1022,2016,A,County,New York,"Bronx County, New York",Private,Information,,78,2552,183193124,1381,71794,0.43,0.34
+36005,36,5.0,5,1023,2016,A,County,New York,"Bronx County, New York",Private,Financial activities,,2569,13830,646206508,899,46726,0.82,0.46
+36005,36,5.0,5,1024,2016,A,County,New York,"Bronx County, New York",Private,Professional and business services,,1383,13686,579654002,815,42354,0.32,0.21
+36005,36,5.0,5,1025,2016,A,County,New York,"Bronx County, New York",Private,Education and health services,,2542,106696,5530086861,997,51830,2.33,2.69
+36005,36,5.0,5,1026,2016,A,County,New York,"Bronx County, New York",Private,Leisure and hospitality,,1792,20861,733117785,676,35142,0.64,1.06
+36005,36,5.0,5,1027,2016,A,County,New York,"Bronx County, New York",Private,Other services,,2065,9419,274013383,559,29091,1.02,0.88
+36005,36,5.0,5,1029,2016,A,County,New York,"Bronx County, New York",Private,Unclassified,,1286,1669,41037536,473,24592,2.91,1.47
+36047,36,47.0,0,10,2016,A,County,New York,"Kings County, New York",Total Covered,"Total, all industries",,60515,687358,30522941204,854,44406,1.0,1.0
+36047,36,47.0,1,10,2016,A,County,New York,"Kings County, New York",Federal Government,"Total, all industries",,73,7877,594690595,1452,75493,0.58,0.68
+36047,36,47.0,2,10,2016,A,County,New York,"Kings County, New York",State Government,"Total, all industries",,63,9443,614511277,1251,65078,0.43,0.59
+36047,36,47.0,3,10,2016,A,County,New York,"Kings County, New York",Local Government,"Total, all industries",,666,82046,4892133473,1147,59627,1.21,1.8
+36047,36,47.0,5,10,2016,A,County,New York,"Kings County, New York",Private,"Total, all industries",,59713,587991,24421605859,799,41534,1.01,0.94
+36047,36,47.0,5,101,2016,A,County,New York,"Kings County, New York",Private,Goods-producing,,5582,50502,2642393585,1006,52322,0.5,0.51
+36047,36,47.0,5,1011,2016,A,County,New York,"Kings County, New York",Private,Natural resources and mining,,16,113,3641647,617,32109,0.01,0.01
+36047,36,47.0,5,1012,2016,A,County,New York,"Kings County, New York",Private,Construction,,3834,29987,1799302673,1154,60003,0.93,1.14
+36047,36,47.0,5,1013,2016,A,County,New York,"Kings County, New York",Private,Manufacturing,,1732,20402,839449265,791,41145,0.34,0.26
+36047,36,47.0,5,102,2016,A,County,New York,"Kings County, New York",Private,Service-providing,,54131,537489,21779212274,779,40520,1.11,1.05
+36047,36,47.0,5,1021,2016,A,County,New York,"Kings County, New York",Private,"Trade, transportation, and utilities",,13870,123981,4766744354,739,38448,0.95,0.98
+36047,36,47.0,5,1022,2016,A,County,New York,"Kings County, New York",Private,Information,,998,10211,777085251,1464,76104,0.75,0.7
+36047,36,47.0,5,1023,2016,A,County,New York,"Kings County, New York",Private,Financial activities,,5909,33858,2207665070,1254,65203,0.88,0.78
+36047,36,47.0,5,1024,2016,A,County,New York,"Kings County, New York",Private,Professional and business services,,6762,54018,2523889109,899,46723,0.56,0.45
+36047,36,47.0,5,1025,2016,A,County,New York,"Kings County, New York",Private,Education and health services,,7381,222712,8874261641,766,39846,2.12,2.13
+36047,36,47.0,5,1026,2016,A,County,New York,"Kings County, New York",Private,Leisure and hospitality,,5771,54207,1513409712,537,27919,0.72,1.08
+36047,36,47.0,5,1027,2016,A,County,New York,"Kings County, New York",Private,Other services,,7136,29330,834716756,547,28460,1.38,1.32
+36047,36,47.0,5,1029,2016,A,County,New York,"Kings County, New York",Private,Unclassified,,6306,9173,281440381,590,30683,6.96,4.98
+36061,36,61.0,0,10,2016,A,County,New York,"New York County, New York",Total Covered,"Total, all industries",,127869,2415773,274236493774,2183,113519,1.0,1.0
+36061,36,61.0,1,10,2016,A,County,New York,"New York County, New York",Federal Government,"Total, all industries",,149,22783,2128898952,1797,93441,0.48,0.27
+36061,36,61.0,2,10,2016,A,County,New York,"New York County, New York",State Government,"Total, all industries",,140,14432,1249663493,1665,86590,0.19,0.13
+36061,36,61.0,3,10,2016,A,County,New York,"New York County, New York",Local Government,"Total, all industries",,549,226444,14403874138,1223,63609,0.95,0.59
+36061,36,61.0,5,10,2016,A,County,New York,"New York County, New York",Private,"Total, all industries",,127031,2152113,256454057191,2292,119164,1.05,1.1
+36061,36,61.0,5,101,2016,A,County,New York,"New York County, New York",Private,Goods-producing,,4394,67619,6196153715,1762,91634,0.19,0.13
+36061,36,61.0,5,1011,2016,A,County,New York,"New York County, New York",Private,Natural resources and mining,,29,175,19704388,2170,112865,0.01,0.01
+36061,36,61.0,5,1012,2016,A,County,New York,"New York County, New York",Private,Construction,,2242,40812,4139574238,1951,101429,0.36,0.29
+36061,36,61.0,5,1013,2016,A,County,New York,"New York County, New York",Private,Manufacturing,,2124,26632,2036875089,1471,76483,0.13,0.07
+36061,36,61.0,5,102,2016,A,County,New York,"New York County, New York",Private,Service-providing,,122637,2084495,250257903476,2309,120057,1.23,1.35
+36061,36,61.0,5,1021,2016,A,County,New York,"New York County, New York",Private,"Trade, transportation, and utilities",,19746,255576,18633547291,1402,72908,0.56,0.43
+36061,36,61.0,5,1022,2016,A,County,New York,"New York County, New York",Private,Information,,4941,156301,22674040942,2790,145066,3.28,2.28
+36061,36,61.0,5,1023,2016,A,County,New York,"New York County, New York",Private,Financial activities,,19393,371994,96440536797,4986,259253,2.75,3.79
+36061,36,61.0,5,1024,2016,A,County,New York,"New York County, New York",Private,Professional and business services,,27541,555308,68905793013,2386,124086,1.63,1.36
+36061,36,61.0,5,1025,2016,A,County,New York,"New York County, New York",Private,Education and health services,,9916,339382,22983446817,1302,67721,0.92,0.61
+36061,36,61.0,5,1026,2016,A,County,New York,"New York County, New York",Private,Leisure and hospitality,,13862,293747,13705540972,897,46658,1.11,1.09
+36061,36,61.0,5,1027,2016,A,County,New York,"New York County, New York",Private,Other services,,20435,101979,6263817259,1181,61423,1.36,1.1
+36061,36,61.0,5,1029,2016,A,County,New York,"New York County, New York",Private,Unclassified,,6803,10207,651180385,1227,63796,2.2,1.28
+36081,36,81.0,0,10,2016,A,County,New York,"Queens County, New York",Total Covered,"Total, all industries",,51632,647912,32852568100,975,50705,1.0,1.0
+36081,36,81.0,1,10,2016,A,County,New York,"Queens County, New York",Federal Government,"Total, all industries",,79,13920,1025616509,1417,73680,1.09,1.08
+36081,36,81.0,2,10,2016,A,County,New York,"Queens County, New York",State Government,"Total, all industries",,101,5872,432481861,1416,73657,0.28,0.38
+36081,36,81.0,3,10,2016,A,County,New York,"Queens County, New York",Local Government,"Total, all industries",,446,76094,4654602256,1176,61169,1.19,1.59
+36081,36,81.0,5,10,2016,A,County,New York,"Queens County, New York",Private,"Total, all industries",,51006,552027,26739867474,932,48439,1.0,0.96
+36081,36,81.0,5,101,2016,A,County,New York,"Queens County, New York",Private,Goods-producing,,6490,71673,4957675526,1330,69171,0.75,0.89
+36081,36,81.0,5,1011,2016,A,County,New York,"Queens County, New York",Private,Natural resources and mining,,11,46,1525065,638,33154,0.01,0.0
+36081,36,81.0,5,1012,2016,A,County,New York,"Queens County, New York",Private,Construction,,5161,50681,3843517078,1458,75837,1.66,2.27
+36081,36,81.0,5,1013,2016,A,County,New York,"Queens County, New York",Private,Manufacturing,,1318,20946,1112633383,1022,53120,0.37,0.32
+36081,36,81.0,5,102,2016,A,County,New York,"Queens County, New York",Private,Service-providing,,44517,480354,21782191948,872,45346,1.06,0.98
+36081,36,81.0,5,1021,2016,A,County,New York,"Queens County, New York",Private,"Trade, transportation, and utilities",,12105,154244,7879632402,982,51086,1.25,1.51
+36081,36,81.0,5,1022,2016,A,County,New York,"Queens County, New York",Private,Information,,475,7133,455041038,1227,63798,0.56,0.38
+36081,36,81.0,5,1023,2016,A,County,New York,"Queens County, New York",Private,Financial activities,,4829,31995,2503343897,1505,78243,0.88,0.82
+36081,36,81.0,5,1024,2016,A,County,New York,"Queens County, New York",Private,Professional and business services,,5697,51772,2344893045,871,45293,0.57,0.39
+36081,36,81.0,5,1025,2016,A,County,New York,"Queens County, New York",Private,Education and health services,,5967,147193,6083058194,795,41327,1.49,1.35
+36081,36,81.0,5,1026,2016,A,County,New York,"Queens County, New York",Private,Leisure and hospitality,,5063,55072,1558996243,544,28308,0.78,1.03
+36081,36,81.0,5,1027,2016,A,County,New York,"Queens County, New York",Private,Other services,,5734,26311,776659903,568,29519,1.31,1.14
+36081,36,81.0,5,1029,2016,A,County,New York,"Queens County, New York",Private,Unclassified,,4649,6635,180567226,523,27215,5.34,2.97
+36085,36,85.0,0,10,2016,A,County,New York,"Richmond County, New York",Total Covered,"Total, all industries",,9611,115173,5402721705,902,46910,1.0,1.0
+36085,36,85.0,1,10,2016,A,County,New York,"Richmond County, New York",Federal Government,"Total, all industries",,23,995,66611046,1287,66935,0.44,0.43
+36085,36,85.0,2,10,2016,A,County,New York,"Richmond County, New York",State Government,"Total, all industries",,50,2314,160686741,1335,69441,0.62,0.87
+36085,36,85.0,3,10,2016,A,County,New York,"Richmond County, New York",Local Government,"Total, all industries",,104,15332,900098896,1129,58707,1.35,1.87
+36085,36,85.0,5,10,2016,A,County,New York,"Richmond County, New York",Private,"Total, all industries",,9434,96532,4275325022,852,44289,0.99,0.93
+36085,36,85.0,5,101,2016,A,County,New York,"Richmond County, New York",Private,Goods-producing,,1280,10444,714657914,1316,68428,0.62,0.78
+36085,36,85.0,5,1011,2016,A,County,New York,"Richmond County, New York",Private,Natural resources and mining,N,4,0,0,0,0,0.0,0.0
+36085,36,85.0,5,1012,2016,A,County,New York,"Richmond County, New York",Private,Construction,,1148,9227,650166570,1355,70460,1.7,2.33
+36085,36,85.0,5,1013,2016,A,County,New York,"Richmond County, New York",Private,Manufacturing,N,128,0,0,0,0,0.0,0.0
+36085,36,85.0,5,102,2016,A,County,New York,"Richmond County, New York",Private,Service-providing,,8154,86088,3560667108,795,41361,1.06,0.97
+36085,36,85.0,5,1021,2016,A,County,New York,"Richmond County, New York",Private,"Trade, transportation, and utilities",,1862,24121,1009645625,805,41857,1.1,1.18
+36085,36,85.0,5,1022,2016,A,County,New York,"Richmond County, New York",Private,Information,,55,1417,89674987,1217,63285,0.62,0.46
+36085,36,85.0,5,1023,2016,A,County,New York,"Richmond County, New York",Private,Financial activities,,710,3349,183044574,1051,54659,0.52,0.36
+36085,36,85.0,5,1024,2016,A,County,New York,"Richmond County, New York",Private,Professional and business services,,1403,8363,378490435,870,45257,0.51,0.38
+36085,36,85.0,5,1025,2016,A,County,New York,"Richmond County, New York",Private,Education and health services,,1480,33355,1564103754,902,46892,1.9,2.12
+36085,36,85.0,5,1026,2016,A,County,New York,"Richmond County, New York",Private,Leisure and hospitality,,879,9466,182305520,370,19260,0.75,0.74
+36085,36,85.0,5,1027,2016,A,County,New York,"Richmond County, New York",Private,Other services,,977,4970,120364531,466,24221,1.4,1.08
+36085,36,85.0,5,1029,2016,A,County,New York,"Richmond County, New York",Private,Unclassified,,790,1047,33037682,607,31550,4.74,3.3
+36005,36,5.0,0,10,2017,A,County,New York,"Bronx County, New York",Total Covered,"Total, all industries",,18555,301247,15599746333,996,51784,1.0,1.0
+36005,36,5.0,1,10,2017,A,County,New York,"Bronx County, New York",Federal Government,"Total, all industries",,66,4025,322005250,1538,80001,0.69,0.73
+36005,36,5.0,2,10,2017,A,County,New York,"Bronx County, New York",State Government,"Total, all industries",,49,3821,285936451,1439,74836,0.39,0.54
+36005,36,5.0,3,10,2017,A,County,New York,"Bronx County, New York",Local Government,"Total, all industries",,488,53481,3301268822,1187,61728,1.82,2.42
+36005,36,5.0,5,10,2017,A,County,New York,"Bronx County, New York",Private,"Total, all industries",,17952,239921,11690535810,937,48727,0.94,0.88
+36005,36,5.0,5,101,2017,A,County,New York,"Bronx County, New York",Private,Goods-producing,,1522,17099,1119664852,1259,65480,0.38,0.42
+36005,36,5.0,5,1011,2017,A,County,New York,"Bronx County, New York",Private,Natural resources and mining,,7,27,1132056,796,41417,0.01,0.01
+36005,36,5.0,5,1012,2017,A,County,New York,"Bronx County, New York",Private,Construction,,1175,11276,830604068,1417,73663,0.78,1.01
+36005,36,5.0,5,1013,2017,A,County,New York,"Bronx County, New York",Private,Manufacturing,,340,5796,287928728,955,49675,0.22,0.18
+36005,36,5.0,5,102,2017,A,County,New York,"Bronx County, New York",Private,Service-providing,,16430,222822,10570870958,912,47441,1.05,1.0
+36005,36,5.0,5,1021,2017,A,County,New York,"Bronx County, New York",Private,"Trade, transportation, and utilities",,4871,52828,2245696314,817,42510,0.93,0.91
+36005,36,5.0,5,1022,2017,A,County,New York,"Bronx County, New York",Private,Information,,76,2339,165784834,1363,70884,0.4,0.29
+36005,36,5.0,5,1023,2017,A,County,New York,"Bronx County, New York",Private,Financial activities,,2550,14604,713657932,940,48867,0.86,0.49
+36005,36,5.0,5,1024,2017,A,County,New York,"Bronx County, New York",Private,Professional and business services,,1362,13906,620411080,858,44614,0.33,0.21
+36005,36,5.0,5,1025,2017,A,County,New York,"Bronx County, New York",Private,Education and health services,,2642,107654,5745816727,1026,53373,2.32,2.69
+36005,36,5.0,5,1026,2017,A,County,New York,"Bronx County, New York",Private,Leisure and hospitality,,2004,21474,781203817,700,36379,0.64,1.08
+36005,36,5.0,5,1027,2017,A,County,New York,"Bronx County, New York",Private,Other services,,2116,9484,285302334,579,30084,1.02,0.88
+36005,36,5.0,5,1029,2017,A,County,New York,"Bronx County, New York",Private,Unclassified,,808,533,12997920,469,24367,1.16,0.54
+36047,36,47.0,0,10,2017,A,County,New York,"Kings County, New York",Total Covered,"Total, all industries",,61950,711873,32476482935,877,45621,1.0,1.0
+36047,36,47.0,1,10,2017,A,County,New York,"Kings County, New York",Federal Government,"Total, all industries",,73,7946,608150227,1472,76531,0.57,0.66
+36047,36,47.0,2,10,2017,A,County,New York,"Kings County, New York",State Government,"Total, all industries",,66,9312,793744769,1639,85243,0.41,0.72
+36047,36,47.0,3,10,2017,A,County,New York,"Kings County, New York",Local Government,"Total, all industries",,666,81186,5011517976,1187,61729,1.17,1.76
+36047,36,47.0,5,10,2017,A,County,New York,"Kings County, New York",Private,"Total, all industries",,61145,613430,26063069963,817,42487,1.01,0.94
+36047,36,47.0,5,101,2017,A,County,New York,"Kings County, New York",Private,Goods-producing,,6044,52818,2816950059,1026,53333,0.5,0.51
+36047,36,47.0,5,1011,2017,A,County,New York,"Kings County, New York",Private,Natural resources and mining,,18,130,4939938,729,37927,0.01,0.01
+36047,36,47.0,5,1012,2017,A,County,New York,"Kings County, New York",Private,Construction,,4226,32531,1943708615,1149,59749,0.95,1.13
+36047,36,47.0,5,1013,2017,A,County,New York,"Kings County, New York",Private,Manufacturing,,1801,20156,868301506,828,43078,0.33,0.26
+36047,36,47.0,5,102,2017,A,County,New York,"Kings County, New York",Private,Service-providing,,55101,560612,23246119904,797,41466,1.12,1.05
+36047,36,47.0,5,1021,2017,A,County,New York,"Kings County, New York",Private,"Trade, transportation, and utilities",,14761,126331,5035513633,767,39860,0.94,0.98
+36047,36,47.0,5,1022,2017,A,County,New York,"Kings County, New York",Private,Information,,1131,10748,857542751,1534,79790,0.78,0.71
+36047,36,47.0,5,1023,2017,A,County,New York,"Kings County, New York",Private,Financial activities,,6161,34924,2320047357,1278,66432,0.87,0.76
+36047,36,47.0,5,1024,2017,A,County,New York,"Kings County, New York",Private,Professional and business services,,7227,55314,2614860618,909,47273,0.55,0.43
+36047,36,47.0,5,1025,2017,A,County,New York,"Kings County, New York",Private,Education and health services,,7736,241424,9687859076,772,40128,2.2,2.18
+36047,36,47.0,5,1026,2017,A,County,New York,"Kings County, New York",Private,Leisure and hospitality,,6737,58879,1742029884,569,29587,0.75,1.16
+36047,36,47.0,5,1027,2017,A,County,New York,"Kings County, New York",Private,Other services,,7400,29670,870183044,564,29328,1.35,1.29
+36047,36,47.0,5,1029,2017,A,County,New York,"Kings County, New York",Private,Unclassified,,3950,3323,118083541,683,35536,3.06,2.36
+36061,36,61.0,0,10,2017,A,County,New York,"New York County, New York",Total Covered,"Total, all industries",,127435,2461393,293971702776,2297,119433,1.0,1.0
+36061,36,61.0,1,10,2017,A,County,New York,"New York County, New York",Federal Government,"Total, all industries",,149,22800,2189148118,1846,96014,0.48,0.26
+36061,36,61.0,2,10,2017,A,County,New York,"New York County, New York",State Government,"Total, all industries",,147,14661,1328211527,1742,90594,0.19,0.13
+36061,36,61.0,3,10,2017,A,County,New York,"New York County, New York",Local Government,"Total, all industries",,549,227490,14896518448,1259,65482,0.95,0.58
+36061,36,61.0,5,10,2017,A,County,New York,"New York County, New York",Private,"Total, all industries",,126591,2196442,275557824683,2413,125456,1.05,1.1
+36061,36,61.0,5,101,2017,A,County,New York,"New York County, New York",Private,Goods-producing,,4454,67188,6420729158,1838,95563,0.19,0.13
+36061,36,61.0,5,1011,2017,A,County,New York,"New York County, New York",Private,Natural resources and mining,,36,211,22475180,2049,106560,0.01,0.01
+36061,36,61.0,5,1012,2017,A,County,New York,"New York County, New York",Private,Construction,,2322,41401,4298260179,1997,103821,0.35,0.28
+36061,36,61.0,5,1013,2017,A,County,New York,"New York County, New York",Private,Manufacturing,,2097,25577,2099993799,1579,82106,0.12,0.07
+36061,36,61.0,5,102,2017,A,County,New York,"New York County, New York",Private,Service-providing,,122137,2129254,269137095525,2431,126400,1.23,1.35
+36061,36,61.0,5,1021,2017,A,County,New York,"New York County, New York",Private,"Trade, transportation, and utilities",,19922,255632,19255093652,1449,75324,0.55,0.41
+36061,36,61.0,5,1022,2017,A,County,New York,"New York County, New York",Private,Information,,5060,165022,24018582658,2799,145548,3.45,2.2
+36061,36,61.0,5,1023,2017,A,County,New York,"New York County, New York",Private,Financial activities,,19664,375055,106662835782,5469,284393,2.71,3.85
+36061,36,61.0,5,1024,2017,A,County,New York,"New York County, New York",Private,Professional and business services,,27528,575863,73236382361,2446,127177,1.65,1.35
+36061,36,61.0,5,1025,2017,A,County,New York,"New York County, New York",Private,Education and health services,,10219,347056,24378067302,1351,70242,0.92,0.61
+36061,36,61.0,5,1026,2017,A,County,New York,"New York County, New York",Private,Leisure and hospitality,,14931,303368,14588576737,925,48089,1.12,1.07
+36061,36,61.0,5,1027,2017,A,County,New York,"New York County, New York",Private,Other services,,20496,103829,6677079180,1237,64308,1.37,1.09
+36061,36,61.0,5,1029,2017,A,County,New York,"New York County, New York",Private,Unclassified,,4319,3428,320477853,1798,93477,0.91,0.71
+36081,36,81.0,0,10,2017,A,County,New York,"Queens County, New York",Total Covered,"Total, all industries",,52469,662527,34384989804,998,51900,1.0,1.0
+36081,36,81.0,1,10,2017,A,County,New York,"Queens County, New York",Federal Government,"Total, all industries",,78,13914,1048777700,1449,75373,1.08,1.08
+36081,36,81.0,2,10,2017,A,County,New York,"Queens County, New York",State Government,"Total, all industries",,105,5668,429963795,1459,75865,0.27,0.37
+36081,36,81.0,3,10,2017,A,County,New York,"Queens County, New York",Local Government,"Total, all industries",,446,75961,4793114550,1213,63100,1.17,1.59
+36081,36,81.0,5,10,2017,A,County,New York,"Queens County, New York",Private,"Total, all industries",,51840,566985,28113133759,954,49584,1.01,0.96
+36081,36,81.0,5,101,2017,A,County,New York,"Queens County, New York",Private,Goods-producing,,6937,73260,5177295432,1359,70670,0.75,0.88
+36081,36,81.0,5,1011,2017,A,County,New York,"Queens County, New York",Private,Natural resources and mining,,13,28,454771,315,16388,0.0,0.0
+36081,36,81.0,5,1012,2017,A,County,New York,"Queens County, New York",Private,Construction,,5573,52991,4099533046,1488,77363,1.66,2.26
+36081,36,81.0,5,1013,2017,A,County,New York,"Queens County, New York",Private,Manufacturing,,1351,20242,1077307615,1024,53222,0.35,0.3
+36081,36,81.0,5,102,2017,A,County,New York,"Queens County, New York",Private,Service-providing,,44903,493725,22935838327,893,46455,1.06,0.98
+36081,36,81.0,5,1021,2017,A,County,New York,"Queens County, New York",Private,"Trade, transportation, and utilities",,12666,158587,8293706694,1006,52298,1.26,1.53
+36081,36,81.0,5,1022,2017,A,County,New York,"Queens County, New York",Private,Information,,500,6922,458867611,1275,66287,0.54,0.36
+36081,36,81.0,5,1023,2017,A,County,New York,"Queens County, New York",Private,Financial activities,,4890,31679,2478819928,1505,78247,0.85,0.76
+36081,36,81.0,5,1024,2017,A,County,New York,"Queens County, New York",Private,Professional and business services,,5953,54432,2629109651,929,48301,0.58,0.41
+36081,36,81.0,5,1025,2017,A,County,New York,"Queens County, New York",Private,Education and health services,,6253,154622,6479910821,806,41908,1.52,1.38
+36081,36,81.0,5,1026,2017,A,County,New York,"Queens County, New York",Private,Leisure and hospitality,,5838,58257,1697990656,561,29146,0.8,1.07
+36081,36,81.0,5,1027,2017,A,County,New York,"Queens County, New York",Private,Other services,,5913,26752,818304022,588,30589,1.31,1.15
+36081,36,81.0,5,1029,2017,A,County,New York,"Queens County, New York",Private,Unclassified,,2891,2473,79128944,615,31995,2.44,1.49
+36085,36,85.0,0,10,2017,A,County,New York,"Richmond County, New York",Total Covered,"Total, all industries",,9697,115831,5608219052,931,48417,1.0,1.0
+36085,36,85.0,1,10,2017,A,County,New York,"Richmond County, New York",Federal Government,"Total, all industries",,25,1000,65534088,1261,65556,0.44,0.41
+36085,36,85.0,2,10,2017,A,County,New York,"Richmond County, New York",State Government,"Total, all industries",,51,2329,167568431,1383,71936,0.62,0.87
+36085,36,85.0,3,10,2017,A,County,New York,"Richmond County, New York",Local Government,"Total, all industries",,104,15479,922405301,1146,59593,1.37,1.88
+36085,36,85.0,5,10,2017,A,County,New York,"Richmond County, New York",Private,"Total, all industries",,9517,97023,4452711232,883,45893,0.98,0.93
+36085,36,85.0,5,101,2017,A,County,New York,"Richmond County, New York",Private,Goods-producing,,1371,10893,758767914,1340,69658,0.64,0.79
+36085,36,85.0,5,1011,2017,A,County,New York,"Richmond County, New York",Private,Natural resources and mining,N,3,0,0,0,0,0.0,0.0
+36085,36,85.0,5,1012,2017,A,County,New York,"Richmond County, New York",Private,Construction,,1224,9699,696531035,1381,71815,1.74,2.36
+36085,36,85.0,5,1013,2017,A,County,New York,"Richmond County, New York",Private,Manufacturing,N,145,0,0,0,0,0.0,0.0
+36085,36,85.0,5,102,2017,A,County,New York,"Richmond County, New York",Private,Service-providing,,8145,86131,3693943318,825,42888,1.06,0.97
+36085,36,85.0,5,1021,2017,A,County,New York,"Richmond County, New York",Private,"Trade, transportation, and utilities",,1966,23718,1041471758,844,43910,1.08,1.18
+36085,36,85.0,5,1022,2017,A,County,New York,"Richmond County, New York",Private,Information,,61,1384,92150963,1280,66563,0.62,0.44
+36085,36,85.0,5,1023,2017,A,County,New York,"Richmond County, New York",Private,Financial activities,,722,3297,184033912,1073,55820,0.51,0.35
+36085,36,85.0,5,1024,2017,A,County,New York,"Richmond County, New York",Private,Professional and business services,,1431,8138,384247916,908,47217,0.5,0.37
+36085,36,85.0,5,1025,2017,A,County,New York,"Richmond County, New York",Private,Education and health services,,1502,34222,1647787243,926,48150,1.92,2.15
+36085,36,85.0,5,1026,2017,A,County,New York,"Richmond County, New York",Private,Leisure and hospitality,,997,10107,205241615,391,20307,0.79,0.79
+36085,36,85.0,5,1027,2017,A,County,New York,"Richmond County, New York",Private,Other services,,1001,4898,126277106,496,25782,1.37,1.08
+36085,36,85.0,5,1029,2017,A,County,New York,"Richmond County, New York",Private,Unclassified,,466,366,12732805,669,34765,2.07,1.47
