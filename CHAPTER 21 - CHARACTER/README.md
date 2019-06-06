@@ -2,7 +2,8 @@
 
 ### [CEQR technical manual chapter 21](https://www1.nyc.gov/assets/oec/technical-manual/21_Neighborhood_Character_2014.pdf)
 
-![alt text](images/project_site.png)
+-> ![alt text](images/project_site.png) <-
+
 Figure: Red Hook with project site.
 
 The CEQR technical manual recommends that applicants incorporate the results from 8 other sections of the manual into their assessment of a project's predicted impact on neighborhood character. We followed the manual's guidance in this respect, however, we also felt it was necessary to perform additional analyses in order to truly understand neighborhood character. We therefore collected and analyzed data relating to business activity, local political issues, and other factors relevant to the daily lives of neighborhood residents.
