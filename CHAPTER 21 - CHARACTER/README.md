@@ -2,7 +2,7 @@
 
 ### [CEQR technical manual chapter 21](https://www1.nyc.gov/assets/oec/technical-manual/21_Neighborhood_Character_2014.pdf)
 
-![alt text](images/project_site.png)
+![alt text](images/project_site.png?style=centerme)
 
 Figure: Red Hook with project site.
 
